@@ -32,4 +32,4 @@ XIV. Los créditos a favor de PEMEX Exploración y Producción cuyos deudores se
 
 XV. Los costos legales por cualquier arbitraje que genere una disputa entre PEMEX Exploración y Producción, contratistas o subcontratistas, y
 
-XVI. Aquéllos que no sean estrictamente indispensables para las actividades por las que PEMEX Exploración y Producción está obligado al pago de los derechos establecidos en los artículos 254, 257 Ter y 257 Quáter de esta Ley.
+XVI. Aquéllos que no sean estrictamente indispensables para las actividades por las que PEMEX Exploración y Producción está obligado al pago de los derechos establecidos en los artículos 254, 257 Quáter y 257 Séptimus de esta Ley.
