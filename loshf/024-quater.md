@@ -1,8 +1,8 @@
 # Artículo 24 Quáter
 
-Como excepción a lo dispuesto por el artículo 29, fracciones VII, VII Bis y VII Bis 2 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, en lo que respecta a los consejos de administración de las instituciones de seguros de que trata este capítulo, éstos quedarán integrados por los mismos consejeros que conforman el Consejo Directivo de la Sociedad y tendrán las facultades que establezca la normativa aplicable. El Comité de Auditoría y el comisario de la Sociedad fungirán como tales en las instituciones de seguros, así como el contralor interno de la Sociedad podrá fungir como contralor normativo de las mismas.
+Como excepción a lo dispuesto por el artículo 29, fracciones VII, VII Bis y VII Bis 2 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, en lo que respecta a los consejos de administración de las instituciones de seguros de que trata este capítulo, éstos quedarán integrados por los mismos consejeros que conforman el Consejo Directivo de la Sociedad y tendrán las facultades que establezca la normativa aplicable. La vigilancia de la sociedad se realizará por los órganos y en los términos señalados en la Ley General de Instituciones y Sociedades Mutualistas de Seguros y las disposiciones de carácter general que emita la Comisión Nacional de Seguros y Fianzas.
 
-_Párrafo reformado DOF 20-08-2008_
+_Párrafo reformado DOF 20-08-2008, 10-01-2014_
 
 El director general de cada institución de seguros a que se refiere este artículo será designado por la Sociedad, mediante acuerdo de su Consejo Directivo, a propuesta del Secretario de Hacienda y Crédito Público. La designación del director general podrá recaer en el Director General de la Sociedad.
 
