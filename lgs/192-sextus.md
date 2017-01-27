@@ -9,3 +9,5 @@ II. Fortalecer la responsabilidad social, la autogestión y el auto cuidado de l
 III. Reconocer a las comunidades terapéuticas, para la rehabilitación de farmacodependientes, en la que sin necesidad de internamiento, se pueda hacer posible la reinserción social, a través del apoyo mutuo, y
 
 IV. Reconocer la importancia de los diversos grupos de ayuda mutua, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, con base en experiencias vivenciales compartidas entre los miembros del grupo, para lograr la abstinencia en el uso de narcóticos.
+
+_Artículo adicionado DOF 20-08-2009_

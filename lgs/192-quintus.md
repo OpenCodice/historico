@@ -17,3 +17,5 @@ VI. Realizar convenios de colaboración a nivel internacional que permita fortal
 VII. En toda investigación en que el ser humano sea sujeto de estudio, deberá prevalecer el criterio del respeto a su dignidad, la protección de sus derechos y su bienestar.
 
 En el diseño y desarrollo de este tipo de investigaciones se debe obtener el consentimiento informado y por escrito de la persona y, en su caso, del familiar más cercano en vínculo, o representante legal, según sea el caso, a quienes deberán proporcionárseles todos los elementos para decidir su participación.
+
+_Artículo adicionado DOF 20-08-2009_
