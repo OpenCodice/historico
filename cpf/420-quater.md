@@ -1,4 +1,4 @@
-# Artículo 420 Quater
+# Artículo 420 Quáter
 
 Se impondrá pena de uno a cuatro años de prisión y de trescientos a tres mil días multa, a quien:
 
