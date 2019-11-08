@@ -5,3 +5,5 @@ El delito de abigeato se considera calificado y se aumentará la pena hasta en u
 De igual manera se impondrá la pena establecida en el párrafo anterior, cuando el delito se ejecute mediante violencia física o moral, o bien cuando lo comenta un servidor público.
 
 Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
+
+_Artículo adicionado DOF 23-06-2017_

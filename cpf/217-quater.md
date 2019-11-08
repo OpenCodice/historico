@@ -11,3 +11,5 @@ III. Si el beneficio indebidamente otorgado excede el equivalente a dos mil vece
 IV. Si el beneficio indebidamente otorgado excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión y multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
 
 Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
+
+_Artículo adicionado DOF 05-11-2018. Artículo y numeral reformado (antes artículo 217 Ter) DOF 12-04-2019_
