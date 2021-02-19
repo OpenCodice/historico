@@ -4,4 +4,8 @@ Al que de manera ilícita posea cargadores de cartuchos para armas de fuego de u
 
 I.- Con prisión de uno a dos años y de cincuenta a cien días multa, cuando se trate de dos y hasta cinco cargadores.
 
-II.- Con prisión de dos a cinco años y de cien a doscientos días multa, cuando se trate de más de cinco cargadores.
+II.- Con prisión de cuatro a ocho años y de doscientos a cuatrocientos días multa, cuando se trate de más de cinco cargadores.
+
+_Fracción reformada DOF 19-02-2021_
+
+_Artículo adicionado DOF 12-11-2015_
