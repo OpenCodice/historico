@@ -11,3 +11,5 @@ Se impondrán las penas a que se refiere este artículo al padre o madre de un m
 Además, se privará de los derechos de patria potestad, tutela o custodia a quienes, en su caso, teniendo el ejercicio de éstos cometan el delito a que se refiere el presente artículo.
 
 En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
+
+_Artículo adicionado DOF 30-12-1997. Reformado DOF 12-06-2000_

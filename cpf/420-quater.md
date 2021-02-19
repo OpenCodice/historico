@@ -13,3 +13,5 @@ IV. Prestando sus servicios como auditor técnico, especialista o perito o espec
 V. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Procuraduría Federal de Protección al Ambiente.
+
+_Artículo adicionado DOF 06-02-2002_

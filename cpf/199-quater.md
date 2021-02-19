@@ -9,3 +9,5 @@ Además de las penas previstas, se impondrá suspensión para ejercer la profesi
 Cuando entre el activo y el pasivo exista relación de matrimonio, concubinato o relación de pareja, los delitos previstos en los artículos anteriores se perseguirán por querella.
 
 Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
+
+_Artículo adicionado DOF 14-06-2012_
