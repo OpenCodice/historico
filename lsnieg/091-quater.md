@@ -16,6 +16,8 @@ VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su design
 
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-VIII. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+VIII. No haber sido Secretario de Estado, Procurador o Fiscal General de la República o Procurador o Fiscal de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+_Fracción reformada DOF 20-05-2021_
 
 _Artículo adicionado DOF 27-01-2017_
