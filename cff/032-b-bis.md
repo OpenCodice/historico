@@ -14,14 +14,22 @@ V. La información de las cuentas de bajo valor y cuentas preexistentes de entid
 
 VI. El Estándar citado se interpretará y aplicará conforme a los Comentarios a dicho Estándar, salvo los casos en que el Servicio de Administración Tributaria establezca lo contrario, mediante reglas de carácter general.
 
-VII. Se impondrán las mismas multas de las infracciones previstas en el artículo 81, fracción I de este Código, a quien no presente la información a que se refiere el Estándar citado mediante declaración anual ante las autoridades fiscales, o no la presente a través de los medios o formatos que señale el Servicio de Administración Tributaria, o la presente a requerimiento de las autoridades fiscales.
+VII. Las instituciones financieras a que se refiere este artículo podrán celebrar las operaciones que estén autorizadas a llevar a cabo con sus clientes, siempre que cumplan con los procedimientos para identificar cuentas extranjeras o cuentas reportables entre las cuentas financieras y para presentar ante las autoridades fiscales la información requerida por el Estándar mencionado en el primer párrafo de este artículo o por las disposiciones fiscales, conforme a los acuerdos señalados en el cuarto párrafo de este artículo.
 
-VIII. Se impondrán las mismas multas de las infracciones previstas en el artículo 81, fracción II de este Código, a quien presente la declaración anual que contenga la información a que se refiere el Estándar citado incompleta, con errores o en forma distinta a lo señalado por dicho Estándar y las disposiciones fiscales.
+_Fracción reformada DOF 12-11-2021_
 
-IX. Se impondrán las mismas multas de la infracción prevista en el artículo 83, fracción II de este Código, a quien no lleve el registro especial a que se refiere la fracción II del presente artículo. La multa correspondiente será por cada cuenta financiera respecto de la cual no se lleve registro.
+VIII. El Servicio de Administración Tributaria podrá celebrar convenios de colaboración que le permitan coordinarse e intercambiar información con otras dependencias o entidades de la Administración Pública Federal que sean competentes sobre personas morales y figuras jurídicas que sean instituciones financieras, con la finalidad de ejercer las acciones que en el ámbito de la competencia de cada una de ellas puedan corresponder para fines de coadyuvar en la supervisión, verificación y comprobación de la efectiva implementación del Estándar a que se refiere el primer párrafo de este artículo, así como para adoptar las acciones tendientes al cumplimiento de los acuerdos amplios de intercambio de información que México tiene en vigor y que autorizan el intercambio automático de información financiera en materia fiscal, así como de los acuerdos interinstitucionales firmados con fundamento en ellos.
+
+_Fracción reformada DOF 12-11-2021_
+
+IX. Se deroga.
+
+_Fracción derogada DOF 12-11-2021_
 
 La Secretaría de Hacienda y Crédito Público actualizará las disposiciones de carácter general en materia de prevención e identificación de operaciones con recursos de procedencia ilícita, según corresponda, con el fin de garantizar su congruencia con el Estándar citado.
 
 El Servicio de Administración Tributaria expedirá las reglas de carácter general necesarias para la correcta y debida aplicación del presente artículo. Dichas reglas deberán incluir los procedimientos aplicables para identificar cuentas extranjeras o cuentas reportables entre las cuentas financieras y para presentar ante las autoridades fiscales la información a que se refiere el Estándar citado.
 
-Lo dispuesto en las fracciones VII, VIII y IX y en los párrafos tercero y cuarto del presente artículo también resultará aplicable respecto de los procedimientos para identificar cuentas reportables entre las cuentas financieras y para presentar ante las autoridades fiscales la información a que se refieren las disposiciones fiscales, conforme a los acuerdos amplios de intercambio de información que México tiene en vigor y autorizan el intercambio automático de información financiera en materia fiscal, así como los acuerdos interinstitucionales firmados con fundamento en ellos.
+Lo dispuesto en los artículos 82-E y 82-F de este Código y en el párrafo tercero del presente artículo también resultará aplicable respecto de los procedimientos para identificar cuentas reportables entre las cuentas financieras y para presentar ante las autoridades fiscales la información a que se refieren las disposiciones fiscales, conforme a los acuerdos amplios de intercambio de información que México tiene en vigor y autorizan el intercambio automático de información financiera en materia fiscal, así como los acuerdos interinstitucionales firmados con fundamento en ellos.
+
+_Párrafo reformado DOF 12-11-2021_
