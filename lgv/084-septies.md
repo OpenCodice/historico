@@ -2,11 +2,17 @@
 
 La Junta de Gobierno tendrá exclusivamente las siguientes atribuciones:
 
-I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado Ejecutivo;
+I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado o Comisionada Ejecutiva;
 
-II. Aprobar las disposiciones normativas que el Comisionado Ejecutivo someta a su consideración en términos de la Ley y el Reglamento;
+_Fracción reformada DOF 28-04-2022_
 
-III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva que proponga el Comisionado Ejecutivo;
+II. Aprobar las disposiciones normativas que el Comisionado o Comisionada Ejecutiva someta a su consideración en términos de la Ley y el Reglamento;
+
+_Fracción reformada DOF 28-04-2022_
+
+III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva que proponga el Comisionado o Comisionada Ejecutiva;
+
+_Fracción reformada DOF 28-04-2022_
 
 IV. Conocer de los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Ejecutiva de acuerdo con esta Ley, y
 

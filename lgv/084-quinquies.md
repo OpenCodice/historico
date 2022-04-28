@@ -4,6 +4,8 @@ La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al
 
 _Artículo adicionado DOF 03-01-2017_
 
-Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente el Presidente de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes.
+Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente la persona Titular de la Presidencia de la Junta de Gobierno.
 
-_Artículo adicionado DOF 03-01-2017_
+Los acuerdos se adoptarán por mayoría de votos de sus integrantes presentes.
+
+_Artículo adicionado DOF 03-01-2017. Reformado DOF 28-04-2022_
