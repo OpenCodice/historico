@@ -26,8 +26,16 @@ X. La obligación de la persona agresora de presentarse periódicamente ante el 
 
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 
-XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza, y
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 
-XIII. Las demás que se requieran para brindar una protección a la víctima.
+_Fracción reformada DOF 08-05-2023_
+
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
+
+_Fracción adicionada DOF 08-05-2023_
+
+XIV. Las demás que se requieran para brindar una protección a la víctima.
+
+_Fracción recorrida DOF 08-05-2023_
 
 _Artículo adicionado DOF 18-03-2021_
