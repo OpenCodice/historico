@@ -34,8 +34,16 @@ XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agr
 
 _Fracción adicionada DOF 08-05-2023_
 
-XIV. Las demás que se requieran para brindar una protección a la víctima.
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
 
-_Fracción recorrida DOF 08-05-2023_
+_Fracción adicionada DOF 17-01-2024_
+
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+
+_Fracción adicionada DOF 17-01-2024_
+
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.
+
+_Fracción recorrida DOF 08-05-2023. Reformada y recorrida DOF 17-01-2024_
 
 _Artículo adicionado DOF 18-03-2021_
