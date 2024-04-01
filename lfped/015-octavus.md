@@ -2,9 +2,9 @@
 
 Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
 
-Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afro descendientes, mujeres, niñas, niños y adolescentes, personas jóvenes, personas con discapacidad y personas adultas mayores.
+Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, afro descendientes, mujeres, niñas, niños y adolescentes, personas jóvenes, personas con discapacidad y personas adultas mayores.
 
-_Párrafo reformado DOF 08-12-2023_
+_Párrafo reformado DOF 08-12-2023, 01-04-2024_
 
 _Artículo adicionado DOF 20-03-2014_
 
