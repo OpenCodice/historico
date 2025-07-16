@@ -1,8 +1,12 @@
 # Artículo 30 Quáter
 
-Para ser Juez Militar de Control será indispensable reunir los requisitos siguientes:
+Para ser titular de un Juzgado Militar de Control será indispensable reunir los requisitos siguientes:
 
-I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada de México.
+_Párrafo reformado DOF 16-07-2025_
+
+I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada.
+
+_Fracción reformada DOF 16-07-2025_
 
 II.- Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
 
