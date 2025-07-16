@@ -1,5 +1,5 @@
 # Artículo 95 Quinquies
 
-La persona titular de la Dirección del servicio de archivo deberá contar con el grado de General procedente de Arma.
+La persona titular de la Dirección del Servicio de Archivo deberá ostentar la jerarquía de General en activo.
 
-_Artículo adicionado DOF 03-05-2023_
+_Artículo adicionado DOF 03-05-2023. Reformado DOF 16-07-2025_
