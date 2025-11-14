@@ -4,9 +4,9 @@ Tratándose de certificados de sello digital para la expedición de comprobantes
 
 I. Detecten que los contribuyentes, en un ejercicio fiscal y estando obligados a ello, omitan la presentación de la declaración anual transcurrido un mes posterior a la fecha en que se encontraban obligados a hacerlo en términos de las disposiciones fiscales, o de dos o más declaraciones provisionales o definitivas consecutivas o no consecutivas.
 
-Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección IV de la Ley del Impuesto sobre la Renta, la restricción temporal se realizará cuando se detecte que omitió tres o más pagos mensuales en un año calendario, consecutivos o no, o bien, la declaración anual.
+Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección IV de la Ley del Impuesto sobre la Renta, la restricción temporal se realizará cuando se detecte que omitió tres o más pagos mensuales en un año calendario, consecutivos o no.
 
-_Párrafo adicionado DOF 12-11-2021_
+_Párrafo adicionado DOF 12-11-2021. Reformado DOF 07-11-2025_
 
 II. Durante el procedimiento administrativo de ejecución no localicen al contribuyente o éste desaparezca.
 
@@ -26,19 +26,37 @@ _Fracción reformada DOF 12-11-2021_
 
 VI. Derivado de la verificación prevista en el artículo 27 de este Código, detecten que el domicilio fiscal señalado por el contribuyente no cumple con los supuestos del artículo 10 de este Código.
 
-VII. Detecten que el ingreso declarado, el valor de los actos o actividades gravados declarados, así como el impuesto retenido por el contribuyente, manifestados en las declaraciones de pagos provisionales o definitivos, de retenciones o del ejercicio, o bien, las informativas, no concuerden con los ingresos o valor de actos o actividades señalados en los comprobantes fiscales digitales por Internet, sus complementos de pago o estados de cuenta bancarios, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
+VII. Detecten que el ingreso declarado, el valor de los actos o actividades gravados declarados, así como el impuesto retenido por el contribuyente, manifestados en las declaraciones de pagos provisionales o definitivos, de retenciones o del ejercicio, o bien, las informativas, no concuerden con los ingresos o valor de actos o actividades señalados en los comprobantes fiscales digitales por Internet, sus complementos de pago o estados de cuenta o estados de cuenta bancarios, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
 
-_Fracción reformada DOF 12-11-2021_
+_Fracción reformada DOF 12-11-2021, 07-11-2025_
 
 VIII. Detecten que, por causas imputables a los contribuyentes, los medios de contacto establecidos por el Servicio de Administración Tributaria mediante reglas de carácter general, registrados para el uso del buzón tributario, no son correctos o auténticos.
 
-IX. Detecten la comisión de una o más de las conductas infractoras previstas en los artículos 79, 81 y 83 de este ordenamiento, y la conducta sea realizada por el contribuyente titular del certificado de sello digital.
+IX. Detecten la comisión de una o más de las conductas infractoras establecidas en los artículos 79, 81 y 83 de este ordenamiento, o las establecidas en los artículos 184, fracción II y 185-A de la Ley Aduanera, y la conducta sea realizada por el contribuyente titular del certificado de sello digital.
+
+_Fracción reformada DOF 07-11-2025_
 
 X. Se deroga.
 
 XI. Detecten que la persona moral tiene un socio o accionista que cuenta con el control efectivo de la misma, y cuyo certificado se ha dejado sin efectos por ubicarse en alguno de los supuestos del artículo 17-H, primer párrafo, fracciones X, XI o XII de este Código, o bien, en los supuestos del artículo 69, decimosegundo párrafo, fracciones I a V de este Código, y no haya corregido su situación fiscal, o bien, que dicho socio o accionista tenga el control efectivo de otra persona moral, que se encuentre en los supuestos de los artículos y fracciones antes referidos y ésta no haya corregido su situación fiscal. Para tales efectos se considera que dicho socio o accionista cuenta con el control efectivo cuando se ubique en cualquiera de los supuestos establecidos en el artículo 26, fracción X, cuarto párrafo, incisos a), b) y c) de este Código.
 
 _Fracción adicionada DOF 12-11-2021_
+
+XII. Detecten que los contribuyentes tengan a su cargo créditos fiscales firmes no pagados en su totalidad junto con sus accesorios, cuando en el ejercicio fiscal inmediato anterior a aquel en que se realice la restricción, hayan emitido comprobantes fiscales por un monto total que supere cuatro veces el monto histórico del crédito fiscal.
+
+_Fracción adicionada DOF 07-11-2025_
+
+XIII. Detecten que en la expedición de comprobantes fiscales digitales por Internet, los contribuyentes:
+
+a) No hayan declarado la clave ingreso correspondiente en el campo tipo de comprobante.
+
+b) No hayan declarado el número de permiso correspondiente vigente concedido por la Comisión Nacional de Energía o enajene combustibles sin haberlos importado o adquirido conforme a las disposiciones jurídicas aplicables o declaren uno incorrecto sin contar con el permiso referido en el presente inciso.
+
+_Fracción adicionada DOF 07-11-2025_
+
+XIV. Detecten que los contribuyentes que recibieron los comprobantes fiscales digitales por Internet a que se refiere la fracción X del artículo 49 Bis de este Código, no corrigieron su situación fiscal dentro del plazo establecido en dicha fracción.
+
+_Fracción adicionada DOF 07-11-2025_
 
 Los contribuyentes a quienes se les haya restringido temporalmente el uso del certificado de sello digital para la expedición de comprobantes fiscales digitales por Internet podrán presentar, en un plazo no mayor a cuarenta días hábiles, la solicitud de aclaración a través del procedimiento que, mediante reglas de carácter general, determine el Servicio de Administración Tributaria para subsanar las irregularidades detectadas, o bien, para desvirtuar las causas que motivaron la aplicación de tal medida, en el cual podrán aportar las pruebas que a su derecho convenga, a fin de que, al día siguiente al de la solicitud se restablezca el uso de dicho certificado. La autoridad fiscal deberá emitir la resolución sobre dicho procedimiento en un plazo máximo de diez días, contado a partir del día siguiente a aquél en que se reciba la solicitud correspondiente; hasta en tanto se emita la resolución correspondiente, la autoridad fiscal permitirá el uso del certificado de sello digital para la expedición de comprobantes fiscales digitales por Internet. La resolución a que se refiere este párrafo se dará a conocer al contribuyente a través del buzón tributario.
 
