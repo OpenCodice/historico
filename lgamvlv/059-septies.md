@@ -16,6 +16,8 @@ VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia p
 
 VII. Rendir a la persona titular del Poder Ejecutivo estatal y al Congreso de la entidad federativa, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
 
-VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de Gobernación.
+VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de las Mujeres.
+
+_Fracción reformada DOF 15-01-2026_
 
 _Artículo adicionado DOF 08-05-2023_
