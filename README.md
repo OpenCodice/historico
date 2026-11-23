@@ -25,6 +25,12 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lamni`](../../tree/lamni) | Ley de Amnistía | 1 | 1994-01-22 a 1994-01-22 |
 | [`lamp`](../../tree/lamp) | Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | 10 | 2013-04-02 a 2025-10-16 |
 | [`lan`](../../tree/lan) | Ley de Aguas Nacionales | 11 | 2004-04-29 a 2025-12-11 |
+| [`lansi`](../../tree/lansi) | Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | 3 | 2014-08-11 a 2022-05-11 |
+| [`lapp`](../../tree/lapp) | Ley de Asociaciones Público Privadas | 6 | 2012-01-16 a 2025-11-14 |
+| [`larcp`](../../tree/larcp) | Ley de Asociaciones Religiosas y Culto Público | 5 | 2006-04-24 a 2025-11-14 |
+| [`larefam`](../../tree/larefam) | Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 |
+| [`lasoc`](../../tree/lasoc) | Ley de Asistencia Social | 10 | 2004-09-02 a 2024-04-01 |
+| [`latime`](../../tree/latime) | Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica | 1 | 2004-09-02 a 2004-09-02 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
