@@ -7,8 +7,8 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 <!-- ramas -->
 | Rama | Ley | Versiones | Periodo |
 |---|---|---|---|
-| [`cpeum`](../../tree/cpeum) | Constitución Política de los Estados Unidos Mexicanos | 75 | 2006-04-07 a 2026-10-07 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
+| [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
 
 ```
