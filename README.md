@@ -12,6 +12,9 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`ccom`](../../tree/ccom) | Código de Comercio | 3 | 2018-03-28 a 2025-11-14 |
 | [`cff`](../../tree/cff) | Código Fiscal de la Federación | 24 | 2006-07-18 a 2026-04-09 |
 | [`cjm`](../../tree/cjm) | Código de Justicia Militar | 7 | 2005-06-29 a 2025-07-16 |
+| [`cmpp`](../../tree/cmpp) | Código Militar de Procedimientos Penales | 4 | 2018-06-21 a 2025-11-14 |
+| [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 8 | 2014-03-05 a 2025-11-28 |
+| [`laam`](../../tree/laam) | Ley de Ascensos de la Armada de México | 3 | 2004-06-25 a 2025-12-17 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
