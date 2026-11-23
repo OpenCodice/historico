@@ -15,6 +15,10 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`cmpp`](../../tree/cmpp) | Código Militar de Procedimientos Penales | 4 | 2018-06-21 a 2025-11-14 |
 | [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 8 | 2014-03-05 a 2025-11-28 |
 | [`laam`](../../tree/laam) | Ley de Ascensos de la Armada de México | 3 | 2004-06-25 a 2025-12-17 |
+| [`laassp`](../../tree/laassp) | Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público | 1 | 2025-04-16 a 2025-04-16 |
+| [`laat`](../../tree/laat) | Ley de Ayuda Alimentaria para los Trabajadores | 1 | 2011-01-17 a 2011-01-17 |
+| [`lac`](../../tree/lac) | Ley de Aviación Civil | 9 | 2006-07-05 a 2025-11-14 |
+| [`laem`](../../tree/laem) | Ley que crea la Agencia Espacial Mexicana | 1 | 2010-07-30 a 2010-07-30 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
