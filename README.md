@@ -4,10 +4,12 @@ El texto de cada ley después de cada una de sus reformas, desde 2006, un
 archivo por artículo. Cada ley está en su propia rama y cada versión es un
 commit, fechado el día de su publicación en el Diario Oficial de la Federación.
 
+<!-- ramas -->
 | Rama | Ley | Versiones | Periodo |
 |---|---|---|---|
 | [`cpeum`](../../tree/cpeum) | Constitución Política de los Estados Unidos Mexicanos | 75 | 2006-04-07 a 2026-10-07 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
+<!-- /ramas -->
 
 ```
 git clone https://github.com/OpenCodice/historico && cd historico
@@ -27,9 +29,11 @@ los mismos extractores que mantienen el texto vigente; nada se edita a mano.
 
 ## Qué no es
 
-- **No están todas las versiones.** Solo las que Wayback capturó: de la CPEUM,
-  75 de las 103 fechas de reforma desde 2006; de la LFT, 24 de 29. Un commit
-  puede reunir más de una reforma.
+- **No están todas las versiones.** Solo las que Wayback capturó (de la CPEUM,
+  75 de las 103 fechas de reforma desde 2006; de la LFT, 24 de 29), y de ellas,
+  las que pasan las compuertas. Un commit puede reunir más de una reforma.
+- **No están todas las leyes.** Las ramas se van sumando por tandas; una ley
+  cuya cadena no queda limpia no se publica.
 - **No es el texto vigente.** Ese está en
   [constitucion-mexicana](https://github.com/OpenCodice/constitucion-mexicana) y
   [leyes-federales](https://github.com/OpenCodice/leyes-federales), y se
