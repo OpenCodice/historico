@@ -7,6 +7,10 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 <!-- ramas -->
 | Rama | Ley | Versiones | Periodo |
 |---|---|---|---|
+| [`cpeum`](../../tree/cpeum) | Constitución Política de los Estados Unidos Mexicanos | 75 | 2006-04-07 a 2026-10-07 |
+| [`ccf`](../../tree/ccf) | Código Civil Federal | 14 | 2004-12-31 a 2025-11-14 |
+| [`ccom`](../../tree/ccom) | Código de Comercio | 3 | 2018-03-28 a 2025-11-14 |
+| [`cjm`](../../tree/cjm) | Código de Justicia Militar | 7 | 2005-06-29 a 2025-07-16 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
