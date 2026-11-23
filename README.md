@@ -19,6 +19,12 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`laat`](../../tree/laat) | Ley de Ayuda Alimentaria para los Trabajadores | 1 | 2011-01-17 a 2011-01-17 |
 | [`lac`](../../tree/lac) | Ley de Aviación Civil | 9 | 2006-07-05 a 2025-11-14 |
 | [`laem`](../../tree/laem) | Ley que crea la Agencia Espacial Mexicana | 1 | 2010-07-30 a 2010-07-30 |
+| [`laero`](../../tree/laero) | Ley de Aeropuertos | 8 | 2006-07-05 a 2025-11-14 |
+| [`lagra`](../../tree/lagra) | Ley Agraria | 12 | 1993-07-09 a 2025-11-14 |
+| [`lamn`](../../tree/lamn) | Ley de Amnistía | 2 | 2020-04-22 a 2024-06-14 |
+| [`lamni`](../../tree/lamni) | Ley de Amnistía | 1 | 1994-01-22 a 1994-01-22 |
+| [`lamp`](../../tree/lamp) | Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | 10 | 2013-04-02 a 2025-10-16 |
+| [`lan`](../../tree/lan) | Ley de Aguas Nacionales | 11 | 2004-04-29 a 2025-12-11 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
