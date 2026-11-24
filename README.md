@@ -36,6 +36,9 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lbogm`](../../tree/lbogm) | Ley de Bioseguridad de Organismos Genéticamente Modificados | 3 | 2005-03-18 a 2022-05-11 |
 | [`lcacsam`](../../tree/lcacsam) | Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | 2 | 2004-06-14 a 2009-06-12 |
 | [`lcacsefam`](../../tree/lcacsefam) | Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | 3 | 2006-02-09 a 2024-05-03 |
+| [`lce`](../../tree/lce) | Ley de Comercio Exterior | 3 | 2006-01-24 a 2026-05-01 |
+| [`lcec`](../../tree/lcec) | Ley de Cámaras Empresariales y sus Confederaciones | 1 | 2019-04-12 a 2019-04-12 |
+| [`lcid`](../../tree/lcid) | Ley de Cooperación Internacional para el Desarrollo | 1 | 2020-11-06 a 2020-11-06 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
