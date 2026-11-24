@@ -44,6 +44,11 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lcmm`](../../tree/lcmm) | Ley de la Casa de Moneda de México | 3 | 1986-01-20 a 2022-05-11 |
 | [`lcmopfih`](../../tree/lcmopfih) | Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | 1 | 1990-12-26 a 1990-12-26 |
 | [`lcndh`](../../tree/lcndh) | Ley de la Comisión Nacional de los Derechos Humanos | 11 | 2006-06-30 a 2024-04-01 |
+| [`lcne`](../../tree/lcne) | Ley de la Comisión Nacional de Energía | 1 | 2025-03-18 a 2025-03-18 |
+| [`lcpaf`](../../tree/lcpaf) | Ley de Caminos, Puentes y Autotransporte Federal | 14 | 2005-10-25 a 2025-11-14 |
+| [`lcpro`](../../tree/lcpro) | Ley de Capitalización del Procampo | 1 | 2001-12-31 a 2001-12-31 |
+| [`lcs`](../../tree/lcs) | Ley Sobre el Contrato de Seguro | 4 | 2006-04-24 a 2013-04-04 |
+| [`ldcmpme`](../../tree/ldcmpme) | Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | 8 | 2006-06-06 a 2023-10-20 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
