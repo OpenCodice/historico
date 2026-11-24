@@ -39,6 +39,11 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lce`](../../tree/lce) | Ley de Comercio Exterior | 3 | 2006-01-24 a 2026-05-01 |
 | [`lcec`](../../tree/lcec) | Ley de Cámaras Empresariales y sus Confederaciones | 1 | 2019-04-12 a 2019-04-12 |
 | [`lcid`](../../tree/lcid) | Ley de Cooperación Internacional para el Desarrollo | 1 | 2020-11-06 a 2020-11-06 |
+| [`lcjpjf`](../../tree/lcjpjf) | Ley de Carrera Judicial del Poder Judicial de la Federación | 1 | 2025-01-02 a 2025-01-02 |
+| [`lcm`](../../tree/lcm) | Ley de Concursos Mercantiles | 7 | 2000-05-12 a 2025-11-14 |
+| [`lcmm`](../../tree/lcmm) | Ley de la Casa de Moneda de México | 3 | 1986-01-20 a 2022-05-11 |
+| [`lcmopfih`](../../tree/lcmopfih) | Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | 1 | 1990-12-26 a 1990-12-26 |
+| [`lcndh`](../../tree/lcndh) | Ley de la Comisión Nacional de los Derechos Humanos | 11 | 2006-06-30 a 2024-04-01 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
