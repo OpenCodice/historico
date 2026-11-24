@@ -60,6 +60,11 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`ldvuma`](../../tree/ldvuma) | Ley para Determinar el Valor de la Unidad de Medida y Actualización | 1 | 2016-12-30 a 2016-12-30 |
 | [`lebhn`](../../tree/lebhn) | Ley sobre el Escudo, la Bandera y el Himno Nacionales | 15 | 2006-06-02 a 2024-04-01 |
 | [`lec`](../../tree/lec) | Ley de Energía para el Campo | 2 | 2002-12-30 a 2012-12-28 |
+| [`lei`](../../tree/lei) | Ley de Extradición Internacional | 3 | 1999-05-18 a 2021-05-20 |
+| [`lemefam`](../../tree/lemefam) | Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 |
+| [`len`](../../tree/len) | Ley de Educación Naval | 2 | 2019-03-12 a 2023-03-24 |
+| [`lepecfe`](../../tree/lepecfe) | Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad | 1 | 2025-03-18 a 2025-03-18 |
+| [`lepepm`](../../tree/lepepm) | Ley de la Empresa Pública del Estado, Petróleos Mexicanos | 1 | 2025-03-18 a 2025-03-18 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
