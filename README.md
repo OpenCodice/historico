@@ -94,7 +94,47 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfi`](../../tree/lfi) | Ley de Fondos de Inversión | 7 | 2004-01-28 a 2025-11-14 |
 | [`lfiiedb`](../../tree/lfiiedb) | Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | 1 | 2026-04-09 a 2026-04-09 |
 | [`lfisan`](../../tree/lfisan) | Ley Federal del Impuesto sobre Automóviles Nuevos | 5 | 2005-12-26 a 2021-11-12 |
+| [`lfiv`](../../tree/lfiv) | Ley de Fomento a la Industria Vitivinícola | 1 | 2018-05-23 a 2018-05-23 |
+| [`lfjs`](../../tree/lfjs) | Ley Federal de Juegos y Sorteos | 1 | 1947-12-31 a 1947-12-31 |
+| [`lfll`](../../tree/lfll) | Ley de Fomento para la Lectura y el Libro | 5 | 2008-07-24 a 2023-11-29 |
+| [`lfm`](../../tree/lfm) | Ley Federal del Mar | 1 | 1986-01-08 a 1986-01-08 |
+| [`lfmped`](../../tree/lfmped) | Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | 4 | 2014-08-11 a 2025-03-18 |
+| [`lfmzaah`](../../tree/lfmzaah) | Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | 5 | 1986-01-13 a 2025-11-14 |
+| [`lfpa`](../../tree/lfpa) | Ley Federal de Procedimiento Administrativo | 6 | 2000-05-30 a 2025-11-14 |
+| [`lfpc`](../../tree/lfpc) | Ley Federal de Protección al Consumidor | 16 | 2006-06-06 a 2025-12-12 |
+| [`lfpca`](../../tree/lfpca) | Ley Federal de Procedimiento Contencioso Administrativo | 11 | 2005-12-01 a 2026-06-09 |
+| [`lfpdppp`](../../tree/lfpdppp) | Ley Federal de Protección de Datos Personales en Posesión de los Particulares | 2 | 2025-03-20 a 2025-11-14 |
+| [`lfped`](../../tree/lfped) | Ley Federal para Prevenir y Eliminar la Discriminación | 15 | 2003-06-11 a 2025-11-14 |
+| [`lfpiorpi`](../../tree/lfpiorpi) | Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita | 4 | 2012-10-17 a 2025-07-16 |
+| [`lfppcpcia`](../../tree/lfppcpcia) | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | 3 | 2022-01-17 a 2025-11-14 |
+| [`lfppi`](../../tree/lfppi) | Ley Federal de Protección a la Propiedad Industrial | 4 | 2020-07-01 a 2026-04-03 |
+| [`lfppipp`](../../tree/lfppipp) | Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | 1 | 2021-05-20 a 2021-05-20 |
+| [`lfprh`](../../tree/lfprh) | Ley Federal de Presupuesto y Responsabilidad Hacendaria | 17 | 2006-12-27 a 2026-04-09 |
+| [`lfpsdmh`](../../tree/lfpsdmh) | Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | 4 | 2016-01-12 a 2021-11-12 |
+| [`lfra`](../../tree/lfra) | Ley Federal de Responsabilidad Ambiental | 3 | 2013-06-07 a 2025-11-14 |
+| [`lfrcf`](../../tree/lfrcf) | Ley de Fiscalización y Rendición de Cuentas de la Federación | 4 | 2016-07-18 a 2026-05-14 |
+| [`lfremsp`](../../tree/lfremsp) | Ley Federal de Remuneraciones de los Servidores Públicos | 1 | 2021-05-19 a 2021-05-19 |
+| [`lfrm`](../../tree/lfrm) | Ley Federal de Revocación de Mandato | 1 | 2021-09-14 a 2021-09-14 |
+| [`lfrpe`](../../tree/lfrpe) | Ley Federal de Responsabilidad Patrimonial del Estado | 4 | 2004-12-31 a 2023-12-29 |
+| [`lfrsp`](../../tree/lfrsp) | Ley Federal de Responsabilidades de los Servidores Públicos | 7 | 2003-06-13 a 2024-04-01 |
+| [`lfsa`](../../tree/lfsa) | Ley Federal de Sanidad Animal | 5 | 2007-07-25 a 2024-05-21 |
+| [`lfsp`](../../tree/lfsp) | Ley Federal de Seguridad Privada | 3 | 2006-07-06 a 2011-10-17 |
+| [`lfsv`](../../tree/lfsv) | Ley Federal de Sanidad Vegetal | 5 | 1994-01-05 a 2022-05-11 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
+| [`lftse`](../../tree/lftse) | Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | 9 | 2006-05-03 a 2026-01-15 |
+| [`lfvv`](../../tree/lfvv) | Ley Federal de Variedades Vegetales | 3 | 1996-10-25 a 2022-05-11 |
+| [`lfzee`](../../tree/lfzee) | Ley Federal de Zonas Económicas Especiales | 2 | 2016-06-01 a 2024-04-01 |
+| [`lga`](../../tree/lga) | Ley General de Archivos | 4 | 2018-06-15 a 2025-11-14 |
+| [`lgaas`](../../tree/lgaas) | Ley General de la Alimentación Adecuada y Sostenible | 1 | 2024-04-17 a 2024-04-17 |
+| [`lgag`](../../tree/lgag) | Ley General de Aguas | 1 | 2025-12-11 a 2025-12-11 |
+| [`lgahotdu`](../../tree/lgahotdu) | Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano | 6 | 2016-11-28 a 2024-04-01 |
+| [`lgamvlv`](../../tree/lgamvlv) | Ley General de Acceso de las Mujeres a una Vida Libre de Violencias | 21 | 2007-02-01 a 2026-01-15 |
+| [`lgappcea`](../../tree/lgappcea) | Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista | 1 | 2015-04-30 a 2015-04-30 |
+| [`lgb`](../../tree/lgb) | Ley General de Bibliotecas | 2 | 2021-06-01 a 2023-11-29 |
+| [`lgbn`](../../tree/lgbn) | Ley General de Bienes Nacionales | 11 | 2004-05-20 a 2025-07-16 |
+| [`lgcc`](../../tree/lgcc) | Ley General de Cambio Climático | 11 | 2012-06-06 a 2024-04-01 |
+| [`lgcdc`](../../tree/lgcdc) | Ley General de Cultura y Derechos Culturales | 5 | 2017-06-19 a 2026-01-15 |
+| [`lgcfd`](../../tree/lgcfd) | Ley General de Cultura Física y Deporte | 13 | 2013-06-07 a 2025-11-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
 
