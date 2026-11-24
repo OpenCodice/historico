@@ -31,6 +31,11 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`larefam`](../../tree/larefam) | Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 |
 | [`lasoc`](../../tree/lasoc) | Ley de Asistencia Social | 10 | 2004-09-02 a 2024-04-01 |
 | [`latime`](../../tree/latime) | Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica | 1 | 2004-09-02 a 2004-09-02 |
+| [`lbio`](../../tree/lbio) | Ley de Biocombustibles | 1 | 2025-03-18 a 2025-03-18 |
+| [`lbm`](../../tree/lbm) | Ley del Banco de México | 4 | 2000-12-31 a 2014-01-10 |
+| [`lbogm`](../../tree/lbogm) | Ley de Bioseguridad de Organismos Genéticamente Modificados | 3 | 2005-03-18 a 2022-05-11 |
+| [`lcacsam`](../../tree/lcacsam) | Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | 2 | 2004-06-14 a 2009-06-12 |
+| [`lcacsefam`](../../tree/lcacsefam) | Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | 3 | 2006-02-09 a 2024-05-03 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
