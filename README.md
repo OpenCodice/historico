@@ -49,6 +49,12 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lcpro`](../../tree/lcpro) | Ley de Capitalización del Procampo | 1 | 2001-12-31 a 2001-12-31 |
 | [`lcs`](../../tree/lcs) | Ley Sobre el Contrato de Seguro | 4 | 2006-04-24 a 2013-04-04 |
 | [`ldcmpme`](../../tree/ldcmpme) | Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | 8 | 2006-06-06 a 2023-10-20 |
+| [`ldcpdch`](../../tree/ldcpdch) | Ley para el Diálogo, la Conciliación y la Paz Digna en Chiapas | 1 | 1995-03-11 a 1995-03-11 |
+| [`ldefam`](../../tree/ldefam) | Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 |
+| [`ldfefm`](../../tree/ldfefm) | Ley de Disciplina Financiera de las Entidades Federativas y los Municipios | 3 | 2016-04-27 a 2022-05-10 |
+| [`ldofgg`](../../tree/ldofgg) | Ley del Diario Oficial de la Federación y Gacetas Gubernamentales | 3 | 1986-12-24 a 2019-05-31 |
+| [`ldpam`](../../tree/ldpam) | Ley de los Derechos de las Personas Adultas Mayores | 11 | 2006-01-26 a 2024-06-14 |
+| [`ldparm`](../../tree/ldparm) | Ley de Disciplina para el Personal de la Armada de México | 1 | 2002-12-13 a 2002-12-13 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
