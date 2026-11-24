@@ -135,6 +135,44 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgcc`](../../tree/lgcc) | Ley General de Cambio Climático | 11 | 2012-06-06 a 2024-04-01 |
 | [`lgcdc`](../../tree/lgcdc) | Ley General de Cultura y Derechos Culturales | 5 | 2017-06-19 a 2026-01-15 |
 | [`lgcfd`](../../tree/lgcfd) | Ley General de Cultura Física y Deporte | 13 | 2013-06-07 a 2025-11-14 |
+| [`lgcg`](../../tree/lgcg) | Ley General de Contabilidad Gubernamental | 9 | 2008-12-31 a 2026-05-14 |
+| [`lgct`](../../tree/lgct) | Ley General para el Control del Tabaco | 5 | 2008-05-30 a 2022-02-17 |
+| [`lgdfs`](../../tree/lgdfs) | Ley General de Desarrollo Forestal Sustentable | 5 | 2018-06-05 a 2024-04-01 |
+| [`lgdlpi`](../../tree/lgdlpi) | Ley General de Derechos Lingüísticos de los Pueblos Indígenas | 8 | 2003-03-13 a 2023-10-18 |
+| [`lgdnna`](../../tree/lgdnna) | Ley General de los Derechos de Niñas, Niños y Adolescentes | 15 | 2014-12-04 a 2026-01-15 |
+| [`lgdocia`](../../tree/lgdocia) | Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia | 1 | 2021-01-07 a 2021-01-07 |
+| [`lgdp`](../../tree/lgdp) | Ley Federal de Deuda Pública | 5 | 1995-12-21 a 2018-01-30 |
+| [`lgds`](../../tree/lgds) | Ley General de Desarrollo Social | 11 | 2004-01-20 a 2026-01-15 |
+| [`lge`](../../tree/lge) | Ley General de Educación | 5 | 2019-09-30 a 2026-01-15 |
+| [`lgec`](../../tree/lgec) | Ley General de Economía Circular | 1 | 2026-01-19 a 2026-01-19 |
+| [`lgeepa`](../../tree/lgeepa) | Ley General del Equilibrio Ecológico y la Protección al Ambiente | 26 | 2006-05-23 a 2026-01-19 |
+| [`lgeo`](../../tree/lgeo) | Ley de Geotermia | 1 | 2025-03-18 a 2025-03-18 |
+| [`lges`](../../tree/lges) | Ley General de Educación Superior | 1 | 2021-04-20 a 2021-04-20 |
+| [`lgimh`](../../tree/lgimh) | Ley General para la Igualdad Sustantiva entre Mujeres y Hombres | 1 | 2026-01-15 a 2026-01-15 |
+| [`lgipd`](../../tree/lgipd) | Ley General para la Inclusión de las Personas con Discapacidad | 7 | 2011-05-30 a 2024-06-14 |
+| [`lgipe`](../../tree/lgipe) | Ley General de Instituciones y Procedimientos Electorales | 8 | 2014-05-23 a 2026-06-02 |
+| [`lgmasc`](../../tree/lgmasc) | Ley General de Mecanismos Alternativos de Solución de Controversias | 1 | 2024-01-26 a 2024-01-26 |
+| [`lgmde`](../../tree/lgmde) | Ley General en Materia de Delitos Electorales | 1 | 2021-05-20 a 2021-05-20 |
+| [`lgmdfp`](../../tree/lgmdfp) | Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | 7 | 2017-11-17 a 2025-07-16 |
+| [`lgmhcti`](../../tree/lgmhcti) | Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación | 1 | 2023-05-08 a 2023-05-08 |
+| [`lgmime`](../../tree/lgmime) | Ley General de los Medios de Impugnación en Materia Electoral | 1 | 2023-03-02 a 2023-03-02 |
+| [`lgmsv`](../../tree/lgmsv) | Ley General de Movilidad y Seguridad Vial | 3 | 2022-05-17 a 2023-12-29 |
+| [`lgn`](../../tree/lgn) | Ley de la Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 |
+| [`lgoaac`](../../tree/lgoaac) | Ley General de Organizaciones y Actividades Auxiliares del Crédito | 7 | 2008-08-20 a 2025-11-14 |
+| [`lgp`](../../tree/lgp) | Ley General de Población | 10 | 1999-01-04 a 2025-07-16 |
+| [`lgpas`](../../tree/lgpas) | Ley General de Pesca y Acuacultura Sustentables | 11 | 2007-07-24 a 2024-04-01 |
+| [`lgpc`](../../tree/lgpc) | Ley General de Protección Civil | 9 | 2012-06-06 a 2023-12-21 |
+| [`lgpdppso`](../../tree/lgpdppso) | Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados | 2 | 2025-03-20 a 2025-11-14 |
+| [`lgpgir`](../../tree/lgpgir) | Ley General para la Prevención y Gestión Integral de los Residuos | 12 | 2006-05-22 a 2026-01-19 |
+| [`lgpisdme`](../../tree/lgpisdme) | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | 1 | 2025-11-28 a 2025-11-28 |
+| [`lgpist`](../../tree/lgpist) | Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | 3 | 2017-06-26 a 2022-04-28 |
+| [`lgpp`](../../tree/lgpp) | Ley General de Partidos Políticos | 4 | 2014-05-23 a 2023-03-02 |
+| [`lgpsacdii`](../../tree/lgpsacdii) | Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | 7 | 2011-10-24 a 2024-04-01 |
+| [`lgpsdms`](../../tree/lgpsdms) | Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | 1 | 2021-05-20 a 2021-05-20 |
+| [`lgpsedmtp`](../../tree/lgpsedmtp) | Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | 7 | 2012-06-14 a 2025-11-14 |
+| [`lgpsvd`](../../tree/lgpsvd) | Ley General para la Prevención Social de la Violencia y la Delincuencia | 1 | 2021-05-04 a 2021-05-04 |
+| [`lgra`](../../tree/lgra) | Ley General de Responsabilidades Administrativas | 9 | 2016-07-18 a 2025-12-15 |
+| [`lgs`](../../tree/lgs) | Ley General de Salud | 42 | 2006-06-06 a 2024-06-07 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
 
