@@ -65,6 +65,35 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`len`](../../tree/len) | Ley de Educación Naval | 2 | 2019-03-12 a 2023-03-24 |
 | [`lepecfe`](../../tree/lepecfe) | Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad | 1 | 2025-03-18 a 2025-03-18 |
 | [`lepepm`](../../tree/lepepm) | Ley de la Empresa Pública del Estado, Petróleos Mexicanos | 1 | 2025-03-18 a 2025-03-18 |
+| [`less`](../../tree/less) | Ley de la Economía Social y Solidaria | 8 | 2012-05-23 a 2025-04-16 |
+| [`lexp`](../../tree/lexp) | Ley de Expropiación | 3 | 1997-12-04 a 2012-01-27 |
+| [`lfaar`](../../tree/lfaar) | Ley de Fondos de Aseguramiento Agropecuario y Rural | 1 | 2005-05-13 a 2005-05-13 |
+| [`lfaebsp`](../../tree/lfaebsp) | Ley Federal para la Administración y Enajenación de Bienes del Sector Público | 7 | 2005-02-23 a 2024-04-30 |
+| [`lfafe`](../../tree/lfafe) | Ley Federal de Armas de Fuego y Explosivos | 7 | 2004-01-23 a 2025-05-29 |
+| [`lfar`](../../tree/lfar) | Ley Federal de Austeridad Republicana | 2 | 2019-11-19 a 2025-04-16 |
+| [`lfc`](../../tree/lfc) | Ley Federal de Cinematografía | 5 | 2006-01-26 a 2021-03-22 |
+| [`lfca`](../../tree/lfca) | Ley Federal de Cine y el Audiovisual | 1 | 2026-05-22 a 2026-05-22 |
+| [`lfcc`](../../tree/lfcc) | Ley de Fomento a la Confianza Ciudadana | 1 | 2020-01-20 a 2020-01-20 |
+| [`lfcdo`](../../tree/lfcdo) | Ley Federal contra la Delincuencia Organizada | 16 | 2007-03-27 a 2025-11-28 |
+| [`lfce`](../../tree/lfce) | Ley Federal de Competencia Económica | 5 | 2014-05-23 a 2025-11-14 |
+| [`lfcp`](../../tree/lfcp) | Ley Federal de Correduría Pública | 3 | 2006-05-23 a 2012-04-09 |
+| [`lfcpo`](../../tree/lfcpo) | Ley Federal de Consulta Popular | 1 | 2021-05-19 a 2021-05-19 |
+| [`lfcpq`](../../tree/lfcpq) | Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | 4 | 1997-12-26 a 2023-05-03 |
+| [`lfcsq`](../../tree/lfcsq) | Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | 3 | 2009-06-09 a 2024-06-14 |
+| [`lfda`](../../tree/lfda) | Ley Federal del Derecho de Autor | 12 | 2003-07-23 a 2026-05-14 |
+| [`lfdc`](../../tree/lfdc) | Ley Federal de los Derechos del Contribuyente | 1 | 2005-06-23 a 2005-06-23 |
+| [`lfdeapd`](../../tree/lfdeapd) | Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas | 3 | 2018-06-22 a 2024-04-01 |
+| [`lfdefp`](../../tree/lfdefp) | Ley Federal de Defensoría Pública | 9 | 1998-05-28 a 2024-04-01 |
+| [`lfea`](../../tree/lfea) | Ley de Firma Electrónica Avanzada | 3 | 2012-01-11 a 2025-11-14 |
+| [`lfep`](../../tree/lfep) | Ley Federal de las Entidades Paraestatales | 10 | 2006-08-21 a 2025-07-16 |
+| [`lffaosc`](../../tree/lffaosc) | Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil | 7 | 2004-02-09 a 2024-04-01 |
+| [`lffmaa`](../../tree/lffmaa) | Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal | 3 | 1991-07-22 a 2023-03-27 |
+| [`lffpmn`](../../tree/lffpmn) | Ley Federal para el Fomento y Protección del Maíz Nativo | 1 | 2020-04-13 a 2020-04-13 |
+| [`lfgfaga`](../../tree/lfgfaga) | Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | 2 | 2005-05-12 a 2012-04-09 |
+| [`lfgr`](../../tree/lfgr) | Ley de la Fiscalía General de la República | 3 | 2021-05-20 a 2025-11-14 |
+| [`lfi`](../../tree/lfi) | Ley de Fondos de Inversión | 7 | 2004-01-28 a 2025-11-14 |
+| [`lfiiedb`](../../tree/lfiiedb) | Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | 1 | 2026-04-09 a 2026-04-09 |
+| [`lfisan`](../../tree/lfisan) | Ley Federal del Impuesto sobre Automóviles Nuevos | 5 | 2005-12-26 a 2021-11-12 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
 <!-- /ramas -->
