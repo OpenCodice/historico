@@ -249,6 +249,46 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lpo`](../../tree/lpo) | Ley de Productos Orgánicos | 1 | 2006-02-07 a 2006-02-07 |
 | [`lppddhp`](../../tree/lppddhp) | Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | 4 | 2012-06-25 a 2022-04-28 |
 | [`lpte`](../../tree/lpte) | Ley de Planeación y Transición Energética | 1 | 2025-03-18 a 2025-03-18 |
+| [`lpue`](../../tree/lpue) | Ley de Puertos | 6 | 1993-07-19 a 2020-12-07 |
+| [`lraf`](../../tree/lraf) | Ley para Regular las Agrupaciones Financieras | 4 | 2014-01-10 a 2025-11-14 |
+| [`lram`](../../tree/lram) | Ley de Recompensas de la Armada de México | 2 | 1985-01-14 a 2021-11-22 |
+| [`lrart27-mn`](../../tree/lrart27-mn) | Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear | 2 | 1998-01-23 a 2012-04-09 |
+| [`lrart3-mmce`](../../tree/lrart3-mmce) | Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación | 1 | 2019-09-30 a 2019-09-30 |
+| [`lrart5-prof`](../../tree/lrart5-prof) | Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México | 3 | 1993-12-22 a 2018-01-19 |
+| [`lrart6-mdr`](../../tree/lrart6-mdr) | Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica | 4 | 2015-11-04 a 2025-11-14 |
+| [`lrart76-fracvi`](../../tree/lrart76-fracvi) | Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | 2 | 2007-08-31 a 2025-11-14 |
+| [`lrascap`](../../tree/lrascap) | Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | 7 | 2009-08-13 a 2025-11-14 |
+| [`lrcdn`](../../tree/lrcdn) | Ley de Responsabilidad Civil por Daños Nucleares | 2 | 1974-12-31 a 2025-11-14 |
+| [`lrfiyii-art105`](../../tree/lrfiyii-art105) | Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos | 6 | 1996-11-22 a 2025-11-14 |
+| [`lrfv-art76`](../../tree/lrfv-art76) | Ley Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | 1 | 1978-12-29 a 1978-12-29 |
+| [`lrfxiiib-art123`](../../tree/lrfxiiib-art123) | Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | 5 | 1983-12-30 a 2021-07-31 |
+| [`lrfxviii-art73`](../../tree/lrfxviii-art73) | Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera | 1 | 1982-12-27 a 1982-12-27 |
+| [`lritf`](../../tree/lritf) | Ley para Regular las Instituciones de Tecnología Financiera | 4 | 2018-03-09 a 2025-11-14 |
+| [`lrmnyut`](../../tree/lrmnyut) | Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | 1 | 1972-01-12 a 1972-01-12 |
+| [`lrpcap`](../../tree/lrpcap) | Ley sobre Refugiados, Protección Complementaria y Asilo Político | 3 | 2014-10-30 a 2022-02-18 |
+| [`lrpv`](../../tree/lrpv) | Ley del Registro Público Vehicular | 4 | 2004-09-01 a 2021-05-20 |
+| [`lrsf`](../../tree/lrsf) | Ley Reglamentaria del Servicio Ferroviario | 8 | 1995-05-12 a 2025-11-14 |
+| [`lrsic`](../../tree/lrsic) | Ley para Regular las Sociedades de Información Crediticia | 7 | 2004-01-23 a 2024-01-24 |
+| [`lsar`](../../tree/lsar) | Ley de los Sistemas de Ahorro para el Retiro | 8 | 2007-06-28 a 2025-11-14 |
+| [`lsat`](../../tree/lsat) | Ley del Servicio de Administración Tributaria | 5 | 2003-06-12 a 2018-12-04 |
+| [`lsct`](../../tree/lsct) | Ley sobre la Celebración de Tratados | 3 | 1992-01-02 a 2025-11-14 |
+| [`lse`](../../tree/lse) | Ley del Sector Eléctrico | 1 | 2025-03-18 a 2025-03-18 |
+| [`lsem`](../../tree/lsem) | Ley del Servicio Exterior Mexicano | 4 | 2002-01-25 a 2018-04-19 |
+| [`lsh`](../../tree/lsh) | Ley del Sector Hidrocarburos | 1 | 2025-03-18 a 2025-03-18 |
+| [`lsint`](../../tree/lsint) | Ley de Seguridad Interior | 1 | 2017-12-21 a 2017-12-21 |
+| [`lsm`](../../tree/lsm) | Ley del Servicio Militar | 5 | 1998-01-23 a 2022-05-18 |
+| [`lsn`](../../tree/lsn) | Ley de Seguridad Nacional | 1 | 2025-11-14 a 2025-11-14 |
+| [`lsnieg`](../../tree/lsnieg) | Ley del Sistema Nacional de Información Estadística y Geográfica | 9 | 2008-04-16 a 2025-11-14 |
+| [`lsniimsp`](../../tree/lsniimsp) | Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública | 1 | 2025-07-16 a 2025-07-16 |
+| [`lsp`](../../tree/lsp) | Ley de Sistemas de Pagos | 2 | 2002-12-12 a 2025-11-14 |
+| [`lspcapf`](../../tree/lspcapf) | Ley del Servicio Profesional de Carrera en la Administración Pública Federal | 1 | 2006-01-09 a 2006-01-09 |
+| [`lspm`](../../tree/lspm) | Ley del Servicio Postal Mexicano | 5 | 1986-12-24 a 2023-01-19 |
+| [`lsprem`](../../tree/lsprem) | Ley del Sistema Público de Radiodifusión del Estado Mexicano | 6 | 2014-07-14 a 2025-11-14 |
+| [`lsrlip`](../../tree/lsrlip) | Ley de Sociedades de Responsabilidad Limitada de Interés Público | 2 | 1934-08-31 a 2012-04-09 |
+| [`lss`](../../tree/lss) | Ley del Seguro Social | 21 | 2006-08-11 a 2026-01-15 |
+| [`lsss`](../../tree/lsss) | Ley de Sociedades de Solidaridad Social | 2 | 1976-05-27 a 2018-04-24 |
+| [`ltf`](../../tree/ltf) | Ley de Tesorería de la Federación | 1 | 2015-12-30 a 2015-12-30 |
+| [`ltfccg`](../../tree/ltfccg) | Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | 4 | 2005-02-07 a 2014-01-10 |
 <!-- /ramas -->
 
 ```
