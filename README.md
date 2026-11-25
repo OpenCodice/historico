@@ -173,7 +173,45 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgpsvd`](../../tree/lgpsvd) | Ley General para la Prevención Social de la Violencia y la Delincuencia | 1 | 2021-05-04 a 2021-05-04 |
 | [`lgra`](../../tree/lgra) | Ley General de Responsabilidades Administrativas | 9 | 2016-07-18 a 2025-12-15 |
 | [`lgs`](../../tree/lgs) | Ley General de Salud | 42 | 2006-06-06 a 2024-06-07 |
+| [`lgsc`](../../tree/lgsc) | Ley General de Sociedades Cooperativas | 5 | 2001-06-04 a 2025-04-16 |
+| [`lgscmm`](../../tree/lgscmm) | Ley General del Sistema para la Carrera de las Maestras y los Maestros | 1 | 2019-09-30 a 2019-09-30 |
+| [`lgsm`](../../tree/lgsm) | Ley General de Sociedades Mercantiles | 8 | 2006-07-28 a 2023-10-20 |
+| [`lgsmime`](../../tree/lgsmime) | Ley General del Sistema de Medios de Impugnación en Materia Electoral | 8 | 1996-11-22 a 2025-11-14 |
+| [`lgsna`](../../tree/lgsna) | Ley General del Sistema Nacional Anticorrupción | 1 | 2021-05-20 a 2021-05-20 |
+| [`lgsnsp`](../../tree/lgsnsp) | Ley General del Sistema Nacional de Seguridad Pública | 1 | 2025-07-16 a 2025-07-16 |
+| [`lgt`](../../tree/lgt) | Ley General de Turismo | 8 | 2009-06-17 a 2025-11-14 |
+| [`lgtaip`](../../tree/lgtaip) | Ley General de Transparencia y Acceso a la Información Pública | 1 | 2025-03-20 a 2025-03-20 |
+| [`lgtoc`](../../tree/lgtoc) | Ley General de Títulos y Operaciones de Crédito | 8 | 2006-07-18 a 2024-03-26 |
+| [`lgv`](../../tree/lgv) | Ley General de Víctimas | 8 | 2013-05-03 a 2024-04-01 |
+| [`lgvs`](../../tree/lgvs) | Ley General de Vida Silvestre | 14 | 2007-02-01 a 2025-07-16 |
+| [`lhheum`](../../tree/lhheum) | Ley de los Husos Horarios en los Estados Unidos Mexicanos | 2 | 2022-10-28 a 2022-11-29 |
+| [`lical`](../../tree/lical) | Ley de Infraestructura de la Calidad | 1 | 2020-07-01 a 2020-07-01 |
+| [`lie`](../../tree/lie) | Ley de Inversión Extranjera | 11 | 2006-07-18 a 2024-05-27 |
+| [`lieps`](../../tree/lieps) | Ley del Impuesto Especial sobre Producción y Servicios | 12 | 2006-12-27 a 2025-11-07 |
+| [`lif-2026`](../../tree/lif-2026) | Ley de Ingresos de la Federación 2026 | 1 | 2025-11-07 a 2025-11-07 |
+| [`lifnct`](../../tree/lifnct) | Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | 2 | 2014-01-10 a 2024-01-03 |
+| [`lifnvt`](../../tree/lifnvt) | Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | 15 | 2005-06-01 a 2025-02-21 |
+| [`liispcen`](../../tree/liispcen) | Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | 3 | 2015-05-06 a 2024-04-17 |
+| [`limj`](../../tree/limj) | Ley del Instituto Mexicano de la Juventud | 7 | 2006-06-22 a 2024-04-01 |
+| [`linbal`](../../tree/linbal) | Ley que crea el Instituto Nacional de Bellas Artes y Literatura | 2 | 1950-12-11 a 2015-12-17 |
+| [`linpi`](../../tree/linpi) | Ley del Instituto Nacional de los Pueblos Indígenas | 4 | 2018-12-04 a 2023-12-29 |
+| [`lins`](../../tree/lins) | Ley de los Institutos Nacionales de Salud | 8 | 2006-06-22 a 2022-05-11 |
+| [`lisf`](../../tree/lisf) | Ley de Instituciones de Seguros y de Fianzas | 6 | 2013-04-04 a 2025-11-14 |
+| [`lish`](../../tree/lish) | Ley de Ingresos sobre Hidrocarburos | 4 | 2014-08-11 a 2025-03-18 |
+| [`lisipl`](../../tree/lisipl) | Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | 1 | 1968-12-31 a 1968-12-31 |
 | [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 |
+| [`lissfam`](../../tree/lissfam) | Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | 11 | 2006-05-08 a 2025-11-14 |
+| [`lissste`](../../tree/lissste) | Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 18 | 2007-03-31 a 2026-01-15 |
+| [`liva`](../../tree/liva) | Ley del Impuesto al Valor Agregado | 10 | 2006-07-18 a 2021-11-12 |
+| [`lmccbdc`](../../tree/lmccbdc) | Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | 3 | 1991-12-24 a 2014-12-29 |
+| [`lmeum`](../../tree/lmeum) | Ley Monetaria de los Estados Unidos Mexicanos | 3 | 2004-05-11 a 2026-01-19 |
+| [`lmigra`](../../tree/lmigra) | Ley de Migración | 16 | 2011-05-25 a 2026-01-15 |
+| [`lmin`](../../tree/lmin) | Ley de Minería | 4 | 2006-06-26 a 2023-05-08 |
+| [`lmtr`](../../tree/lmtr) | Ley en Materia de Telecomunicaciones y Radiodifusión | 1 | 2025-07-16 a 2025-07-16 |
+| [`lmv`](../../tree/lmv) | Ley del Mercado de Valores | 7 | 2007-06-28 a 2025-11-14 |
+| [`lnac`](../../tree/lnac) | Ley de Nacionalidad | 2 | 2005-01-12 a 2012-04-23 |
+| [`lncm`](../../tree/lncm) | Ley de Navegación y Comercio Marítimos | 7 | 2006-06-01 a 2025-11-14 |
+| [`lned`](../../tree/lned) | Ley Nacional de Extinción de Dominio | 4 | 2019-08-09 a 2025-11-28 |
 <!-- /ramas -->
 
 ```
