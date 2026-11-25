@@ -149,7 +149,6 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgcdc`](../../tree/lgcdc) | Ley General de Cultura y Derechos Culturales | 5 | 2017-06-19 a 2026-01-15 | 1 |
 | [`lgcfd`](../../tree/lgcfd) | Ley General de Cultura Física y Deporte | 13 | 2013-06-07 a 2025-11-14 | 2 |
 | [`lgcg`](../../tree/lgcg) | Ley General de Contabilidad Gubernamental | 9 | 2008-12-31 a 2026-05-14 | 2 |
-| [`lgcs`](../../tree/lgcs) | Ley General de Comunicación Social | 5 | 2018-05-11 a 2024-04-01 | 0 |
 | [`lgct`](../../tree/lgct) | Ley General para el Control del Tabaco | 5 | 2008-05-30 a 2022-02-17 | 0 |
 | [`lgdfs`](../../tree/lgdfs) | Ley General de Desarrollo Forestal Sustentable | 5 | 2018-06-05 a 2024-04-01 | 1 |
 | [`lgdlpi`](../../tree/lgdlpi) | Ley General de Derechos Lingüísticos de los Pueblos Indígenas | 8 | 2003-03-13 a 2023-10-18 | 2 |
@@ -199,7 +198,6 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgv`](../../tree/lgv) | Ley General de Víctimas | 8 | 2013-05-03 a 2024-04-01 | 0 |
 | [`lgvs`](../../tree/lgvs) | Ley General de Vida Silvestre | 14 | 2007-02-01 a 2025-07-16 | 7 |
 | [`lhheum`](../../tree/lhheum) | Ley de los Husos Horarios en los Estados Unidos Mexicanos | 2 | 2022-10-28 a 2022-11-29 | 0 |
-| [`lic`](../../tree/lic) | Ley de Instituciones de Crédito | 15 | 2006-07-18 a 2025-11-14 | 7 |
 | [`lical`](../../tree/lical) | Ley de Infraestructura de la Calidad | 1 | 2020-07-01 a 2020-07-01 | 0 |
 | [`lie`](../../tree/lie) | Ley de Inversión Extranjera | 11 | 2006-07-18 a 2024-05-27 | 1 |
 | [`lieps`](../../tree/lieps) | Ley del Impuesto Especial sobre Producción y Servicios | 12 | 2006-12-27 a 2025-11-07 | 5 |
@@ -240,6 +238,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lobnefaa`](../../tree/lobnefaa) | Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | 3 | 2002-06-24 a 2014-01-10 | 0 |
 | [`lobnosp`](../../tree/lobnosp) | Ley Orgánica del Banco Nacional de Obras y Servicios Públicos | 5 | 2005-08-01 a 2024-04-01 | 0 |
 | [`locfcrl`](../../tree/locfcrl) | Ley Orgánica del Centro Federal de Conciliación y Registro Laboral | 1 | 2020-01-06 a 2020-01-06 | 0 |
+| [`locg`](../../tree/locg) | Ley Orgánica del Congreso General de los Estados Unidos Mexicanos | 23 | 2006-09-13 a 2025-07-07 | 7 |
 | [`loefam`](../../tree/loefam) | Ley Orgánica del Ejército y Fuerza Aérea Mexicanos | 13 | 1998-01-23 a 2025-07-16 | 1 |
 | [`log`](../../tree/log) | Ley de Organizaciones Ganaderas | 2 | 1999-01-06 a 2012-04-09 | 0 |
 | [`loinah`](../../tree/loinah) | Ley Orgánica del Instituto Nacional de Antropología e Historia | 2 | 1998-01-23 a 2015-12-17 | 0 |
@@ -247,6 +246,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lonf`](../../tree/lonf) | Ley Orgánica de Nacional Financiera | 4 | 2005-08-01 a 2014-01-10 | 0 |
 | [`lopdc`](../../tree/lopdc) | Ley Orgánica de la Procuraduría de la Defensa del Contribuyente | 3 | 2006-09-04 a 2022-05-11 | 1 |
 | [`lopgjdf`](../../tree/lopgjdf) | Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal | 1 | 2011-06-20 a 2011-06-20 | 1 |
+| [`lopjf`](../../tree/lopjf) | Ley Orgánica del Poder Judicial de la Federación | 2 | 2024-12-20 a 2025-11-28 | 0 |
 | [`lopsrm`](../../tree/lopsrm) | Ley de Obras Públicas y Servicios Relacionados con las Mismas | 11 | 2005-07-07 a 2025-11-14 | 0 |
 | [`loscm`](../../tree/loscm) | Ley Orgánica del Seminario de Cultura Mexicana | 2 | 1949-12-31 a 2022-05-11 | 0 |
 | [`loshf`](../../tree/loshf) | Ley Orgánica de Sociedad Hipotecaria Federal | 4 | 2006-06-22 a 2024-04-01 | 0 |
