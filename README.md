@@ -10,12 +10,12 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`cpeum`](../../tree/cpeum) | Constitución Política de los Estados Unidos Mexicanos | 75 | 2006-04-07 a 2026-10-07 | 26 |
 | [`ccf`](../../tree/ccf) | Código Civil Federal | 14 | 2004-12-31 a 2025-11-14 | 0 |
 | [`ccom`](../../tree/ccom) | Código de Comercio | 3 | 2018-03-28 a 2025-11-14 | 1 |
-| [`cff`](../../tree/cff) | Código Fiscal de la Federación | 37 | 2006-07-18 a 2026-04-09 | 1 |
+| [`cff`](../../tree/cff) | Código Fiscal de la Federación | 24 | 2006-07-18 a 2026-04-09 | 1 |
 | [`cfpc`](../../tree/cfpc) | Código Federal de Procedimientos Civiles | 7 | 2003-06-13 a 2021-06-07 |  |
 | [`cjm`](../../tree/cjm) | Código de Justicia Militar | 7 | 2005-06-29 a 2025-07-16 | 0 |
 | [`cmpp`](../../tree/cmpp) | Código Militar de Procedimientos Penales | 4 | 2018-06-21 a 2025-11-14 | 0 |
 | [`cnpcf`](../../tree/cnpcf) | Código Nacional de Procedimientos Civiles y Familiares | 4 | 2023-06-07 a 2026-01-15 |  |
-| [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 9 | 2014-03-05 a 2025-11-28 | 6 |
+| [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 8 | 2014-03-05 a 2025-11-28 | 7 |
 | [`cpf`](../../tree/cpf) | Código Penal Federal | 47 | 2006-06-30 a 2026-03-13 |  |
 | [`egdf`](../../tree/egdf) | Estatuto de Gobierno del Distrito Federal | 5 | 1999-10-14 a 2014-06-27 |  |
 | [`laam`](../../tree/laam) | Ley de Ascensos de la Armada de México | 3 | 2004-06-25 a 2025-12-17 | 4 |
@@ -93,6 +93,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfcpo`](../../tree/lfcpo) | Ley Federal de Consulta Popular | 1 | 2021-05-19 a 2021-05-19 | 0 |
 | [`lfcpq`](../../tree/lfcpq) | Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | 4 | 1997-12-26 a 2023-05-03 | 0 |
 | [`lfcsq`](../../tree/lfcsq) | Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | 3 | 2009-06-09 a 2024-06-14 | 1 |
+| [`lfd`](../../tree/lfd) | Ley Federal de Derechos | 17 | 2008-11-13 a 2025-11-07 | 7 |
 | [`lfda`](../../tree/lfda) | Ley Federal del Derecho de Autor | 12 | 2003-07-23 a 2026-05-14 | 2 |
 | [`lfdc`](../../tree/lfdc) | Ley Federal de los Derechos del Contribuyente | 1 | 2005-06-23 a 2005-06-23 | 0 |
 | [`lfdeapd`](../../tree/lfdeapd) | Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas | 3 | 2018-06-22 a 2024-04-01 | 0 |
