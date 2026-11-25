@@ -10,12 +10,12 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`cpeum`](../../tree/cpeum) | Constitución Política de los Estados Unidos Mexicanos | 75 | 2006-04-07 a 2026-10-07 | 26 |
 | [`ccf`](../../tree/ccf) | Código Civil Federal | 14 | 2004-12-31 a 2025-11-14 | 0 |
 | [`ccom`](../../tree/ccom) | Código de Comercio | 3 | 2018-03-28 a 2025-11-14 | 1 |
-| [`cff`](../../tree/cff) | Código Fiscal de la Federación | 24 | 2006-07-18 a 2026-04-09 | 1 |
+| [`cff`](../../tree/cff) | Código Fiscal de la Federación | 37 | 2006-07-18 a 2026-04-09 | 1 |
 | [`cfpc`](../../tree/cfpc) | Código Federal de Procedimientos Civiles | 7 | 2003-06-13 a 2021-06-07 |  |
 | [`cjm`](../../tree/cjm) | Código de Justicia Militar | 7 | 2005-06-29 a 2025-07-16 | 0 |
 | [`cmpp`](../../tree/cmpp) | Código Militar de Procedimientos Penales | 4 | 2018-06-21 a 2025-11-14 | 0 |
 | [`cnpcf`](../../tree/cnpcf) | Código Nacional de Procedimientos Civiles y Familiares | 4 | 2023-06-07 a 2026-01-15 |  |
-| [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 8 | 2014-03-05 a 2025-11-28 | 7 |
+| [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 9 | 2014-03-05 a 2025-11-28 | 6 |
 | [`cpf`](../../tree/cpf) | Código Penal Federal | 47 | 2006-06-30 a 2026-03-13 |  |
 | [`egdf`](../../tree/egdf) | Estatuto de Gobierno del Distrito Federal | 5 | 1999-10-14 a 2014-06-27 |  |
 | [`laam`](../../tree/laam) | Ley de Ascensos de la Armada de México | 3 | 2004-06-25 a 2025-12-17 | 4 |
@@ -149,6 +149,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgcdc`](../../tree/lgcdc) | Ley General de Cultura y Derechos Culturales | 5 | 2017-06-19 a 2026-01-15 | 1 |
 | [`lgcfd`](../../tree/lgcfd) | Ley General de Cultura Física y Deporte | 13 | 2013-06-07 a 2025-11-14 | 2 |
 | [`lgcg`](../../tree/lgcg) | Ley General de Contabilidad Gubernamental | 9 | 2008-12-31 a 2026-05-14 | 2 |
+| [`lgcs`](../../tree/lgcs) | Ley General de Comunicación Social | 5 | 2018-05-11 a 2024-04-01 | 0 |
 | [`lgct`](../../tree/lgct) | Ley General para el Control del Tabaco | 5 | 2008-05-30 a 2022-02-17 | 0 |
 | [`lgdfs`](../../tree/lgdfs) | Ley General de Desarrollo Forestal Sustentable | 5 | 2018-06-05 a 2024-04-01 | 1 |
 | [`lgdlpi`](../../tree/lgdlpi) | Ley General de Derechos Lingüísticos de los Pueblos Indígenas | 8 | 2003-03-13 a 2023-10-18 | 2 |
@@ -198,6 +199,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgv`](../../tree/lgv) | Ley General de Víctimas | 8 | 2013-05-03 a 2024-04-01 | 0 |
 | [`lgvs`](../../tree/lgvs) | Ley General de Vida Silvestre | 14 | 2007-02-01 a 2025-07-16 | 7 |
 | [`lhheum`](../../tree/lhheum) | Ley de los Husos Horarios en los Estados Unidos Mexicanos | 2 | 2022-10-28 a 2022-11-29 | 0 |
+| [`lic`](../../tree/lic) | Ley de Instituciones de Crédito | 15 | 2006-07-18 a 2025-11-14 | 7 |
 | [`lical`](../../tree/lical) | Ley de Infraestructura de la Calidad | 1 | 2020-07-01 a 2020-07-01 | 0 |
 | [`lie`](../../tree/lie) | Ley de Inversión Extranjera | 11 | 2006-07-18 a 2024-05-27 | 1 |
 | [`lieps`](../../tree/lieps) | Ley del Impuesto Especial sobre Producción y Servicios | 12 | 2006-12-27 a 2025-11-07 | 5 |
