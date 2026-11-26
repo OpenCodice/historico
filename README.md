@@ -148,7 +148,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgcc`](../../tree/lgcc) | Ley General de Cambio Climático | 11 | 2012-06-06 a 2024-04-01 | 2 |
 | [`lgcdc`](../../tree/lgcdc) | Ley General de Cultura y Derechos Culturales | 5 | 2017-06-19 a 2026-01-15 | 1 |
 | [`lgcfd`](../../tree/lgcfd) | Ley General de Cultura Física y Deporte | 13 | 2013-06-07 a 2025-11-14 | 2 |
-| [`lgcg`](../../tree/lgcg) | Ley General de Contabilidad Gubernamental | 9 | 2008-12-31 a 2026-05-14 | 2 |
+| [`lgcg`](../../tree/lgcg) | Ley General de Contabilidad Gubernamental | 10 | 2008-12-31 a 2026-05-14 | 1 |
 | [`lgcs`](../../tree/lgcs) | Ley General de Comunicación Social | 5 | 2018-05-11 a 2024-04-01 | 0 |
 | [`lgct`](../../tree/lgct) | Ley General para el Control del Tabaco | 5 | 2008-05-30 a 2022-02-17 | 0 |
 | [`lgdfs`](../../tree/lgdfs) | Ley General de Desarrollo Forestal Sustentable | 5 | 2018-06-05 a 2024-04-01 | 1 |
