@@ -9,27 +9,27 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 |---|---|---|---|---|
 | [`cpeum`](../../tree/cpeum) | Constitución Política de los Estados Unidos Mexicanos | 75 | 2006-04-07 a 2026-10-07 | 26 |
 | [`ccf`](../../tree/ccf) | Código Civil Federal | 14 | 2004-12-31 a 2025-11-14 | 0 |
-| [`ccom`](../../tree/ccom) | Código de Comercio | 3 | 2018-03-28 a 2025-11-14 | 1 |
+| [`ccom`](../../tree/ccom) | Código de Comercio | 25 | 2011-01-27 a 2026-02-18 | 6 |
 | [`cff`](../../tree/cff) | Código Fiscal de la Federación | 37 | 2006-07-18 a 2026-04-09 | 1 |
-| [`cfpc`](../../tree/cfpc) | Código Federal de Procedimientos Civiles | 7 | 2003-06-13 a 2021-06-07 |  |
+| [`cfpc`](../../tree/cfpc) | Código Federal de Procedimientos Civiles | 7 | 2003-06-13 a 2021-06-07 | 4 |
 | [`cjm`](../../tree/cjm) | Código de Justicia Militar | 7 | 2005-06-29 a 2025-07-16 | 0 |
 | [`cmpp`](../../tree/cmpp) | Código Militar de Procedimientos Penales | 4 | 2018-06-21 a 2025-11-14 | 0 |
-| [`cnpcf`](../../tree/cnpcf) | Código Nacional de Procedimientos Civiles y Familiares | 4 | 2023-06-07 a 2026-01-15 |  |
+| [`cnpcf`](../../tree/cnpcf) | Código Nacional de Procedimientos Civiles y Familiares | 4 | 2023-06-07 a 2026-01-15 | 0 |
 | [`cnpp`](../../tree/cnpp) | Código Nacional de Procedimientos Penales | 9 | 2014-03-05 a 2025-11-28 | 6 |
-| [`cpf`](../../tree/cpf) | Código Penal Federal | 47 | 2006-06-30 a 2026-03-13 |  |
-| [`egdf`](../../tree/egdf) | Estatuto de Gobierno del Distrito Federal | 5 | 1999-10-14 a 2014-06-27 |  |
+| [`cpf`](../../tree/cpf) | Código Penal Federal | 47 | 2006-06-30 a 2026-03-13 | 22 |
+| [`egdf`](../../tree/egdf) | Estatuto de Gobierno del Distrito Federal | 5 | 1999-10-14 a 2014-06-27 | 0 |
 | [`laam`](../../tree/laam) | Ley de Ascensos de la Armada de México | 3 | 2004-06-25 a 2025-12-17 | 4 |
 | [`laassp`](../../tree/laassp) | Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público | 1 | 2025-04-16 a 2025-04-16 | 0 |
 | [`laat`](../../tree/laat) | Ley de Ayuda Alimentaria para los Trabajadores | 1 | 2011-01-17 a 2011-01-17 | 0 |
 | [`lac`](../../tree/lac) | Ley de Aviación Civil | 9 | 2006-07-05 a 2025-11-14 | 0 |
-| [`lacp`](../../tree/lacp) | Ley de Ahorro y Crédito Popular | 7 | 2006-07-18 a 2025-11-14 |  |
-| [`ladua`](../../tree/ladua) | Ley Aduanera | 9 | 2006-02-02 a 2025-11-19 |  |
+| [`lacp`](../../tree/lacp) | Ley de Ahorro y Crédito Popular | 7 | 2006-07-18 a 2025-11-14 | 2 |
+| [`ladua`](../../tree/ladua) | Ley Aduanera | 9 | 2006-02-02 a 2025-11-19 | 13 |
 | [`laem`](../../tree/laem) | Ley que crea la Agencia Espacial Mexicana | 1 | 2010-07-30 a 2010-07-30 | 0 |
 | [`laero`](../../tree/laero) | Ley de Aeropuertos | 8 | 2006-07-05 a 2025-11-14 | 1 |
 | [`lagra`](../../tree/lagra) | Ley Agraria | 12 | 1993-07-09 a 2025-11-14 | 2 |
 | [`lamn`](../../tree/lamn) | Ley de Amnistía | 2 | 2020-04-22 a 2024-06-14 | 0 |
 | [`lamni`](../../tree/lamni) | Ley de Amnistía | 1 | 1994-01-22 a 1994-01-22 | 0 |
-| [`lamp`](../../tree/lamp) | Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | 10 | 2013-04-02 a 2025-10-16 | 1 |
+| [`lamp`](../../tree/lamp) | Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | 11 | 2013-04-02 a 2025-10-16 | 1 |
 | [`lan`](../../tree/lan) | Ley de Aguas Nacionales | 11 | 2004-04-29 a 2025-12-11 | 0 |
 | [`lansi`](../../tree/lansi) | Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | 3 | 2014-08-11 a 2022-05-11 | 0 |
 | [`lapp`](../../tree/lapp) | Ley de Asociaciones Público Privadas | 6 | 2012-01-16 a 2025-11-14 | 1 |
@@ -123,19 +123,19 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfppcpcia`](../../tree/lfppcpcia) | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | 3 | 2022-01-17 a 2025-11-14 | 0 |
 | [`lfppi`](../../tree/lfppi) | Ley Federal de Protección a la Propiedad Industrial | 4 | 2020-07-01 a 2026-04-03 | 0 |
 | [`lfppipp`](../../tree/lfppipp) | Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | 1 | 2021-05-20 a 2021-05-20 | 0 |
-| [`lfprh`](../../tree/lfprh) | Ley Federal de Presupuesto y Responsabilidad Hacendaria | 19 | 2006-12-27 a 2026-04-09 | 2 |
-| [`lfpsdmh`](../../tree/lfpsdmh) | Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | 5 | 2016-01-12 a 2021-11-12 | 1 |
+| [`lfprh`](../../tree/lfprh) | Ley Federal de Presupuesto y Responsabilidad Hacendaria | 17 | 2006-12-27 a 2026-04-09 | 2 |
+| [`lfpsdmh`](../../tree/lfpsdmh) | Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | 4 | 2016-01-12 a 2021-11-12 | 1 |
 | [`lfra`](../../tree/lfra) | Ley Federal de Responsabilidad Ambiental | 3 | 2013-06-07 a 2025-11-14 | 0 |
-| [`lfrcf`](../../tree/lfrcf) | Ley de Fiscalización y Rendición de Cuentas de la Federación | 4 | 2016-07-18 a 2026-05-15 | 1 |
+| [`lfrcf`](../../tree/lfrcf) | Ley de Fiscalización y Rendición de Cuentas de la Federación | 4 | 2016-07-18 a 2026-05-14 | 1 |
 | [`lfremsp`](../../tree/lfremsp) | Ley Federal de Remuneraciones de los Servidores Públicos | 1 | 2021-05-19 a 2021-05-19 | 0 |
 | [`lfrm`](../../tree/lfrm) | Ley Federal de Revocación de Mandato | 1 | 2021-09-14 a 2021-09-14 | 0 |
 | [`lfrpe`](../../tree/lfrpe) | Ley Federal de Responsabilidad Patrimonial del Estado | 4 | 2004-12-31 a 2023-12-29 | 1 |
 | [`lfrsp`](../../tree/lfrsp) | Ley Federal de Responsabilidades de los Servidores Públicos | 7 | 2003-06-13 a 2024-04-01 | 0 |
 | [`lfsa`](../../tree/lfsa) | Ley Federal de Sanidad Animal | 5 | 2007-07-25 a 2024-05-21 | 0 |
 | [`lfsp`](../../tree/lfsp) | Ley Federal de Seguridad Privada | 3 | 2006-07-06 a 2011-10-17 | 1 |
-| [`lfsv`](../../tree/lfsv) | Ley Federal de Sanidad Vegetal | 6 | 1994-01-05 a 2022-05-11 | 0 |
+| [`lfsv`](../../tree/lfsv) | Ley Federal de Sanidad Vegetal | 5 | 1994-01-05 a 2022-05-11 | 1 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 | 5 |
-| [`lftse`](../../tree/lftse) | Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | 10 | 2006-05-03 a 2026-01-15 | 3 |
+| [`lftse`](../../tree/lftse) | Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | 9 | 2006-05-03 a 2026-01-15 | 3 |
 | [`lfvv`](../../tree/lfvv) | Ley Federal de Variedades Vegetales | 3 | 1996-10-25 a 2022-05-11 | 0 |
 | [`lfzee`](../../tree/lfzee) | Ley Federal de Zonas Económicas Especiales | 2 | 2016-06-01 a 2024-04-01 | 0 |
 | [`lga`](../../tree/lga) | Ley General de Archivos | 4 | 2018-06-15 a 2025-11-14 | 0 |
