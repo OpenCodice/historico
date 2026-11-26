@@ -40,23 +40,23 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lbio`](../../tree/lbio) | Ley de Biocombustibles | 1 | 2025-03-18 a 2025-03-18 | 0 |
 | [`lbm`](../../tree/lbm) | Ley del Banco de México | 4 | 2000-12-31 a 2014-01-10 | 0 |
 | [`lbogm`](../../tree/lbogm) | Ley de Bioseguridad de Organismos Genéticamente Modificados | 3 | 2005-03-18 a 2022-05-11 | 0 |
-| [`lcaaa`](../../tree/lcaaa) | Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | 3 | 1936-05-12 a 2012-04-09 |  |
+| [`lcaaa`](../../tree/lcaaa) | Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | 3 | 1936-05-12 a 2012-04-09 | 0 |
 | [`lcacsam`](../../tree/lcacsam) | Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | 2 | 2004-06-14 a 2009-06-12 | 0 |
 | [`lcacsefam`](../../tree/lcacsefam) | Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | 3 | 2006-02-09 a 2024-05-03 | 0 |
-| [`lccaif`](../../tree/lccaif) | Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | 4 | 1997-05-07 a 2025-06-06 |  |
-| [`lccbid`](../../tree/lccbid) | Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | 3 | 1996-05-10 a 2014-12-29 |  |
+| [`lccaif`](../../tree/lccaif) | Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | 4 | 1997-05-07 a 2025-06-06 | 1 |
+| [`lccbid`](../../tree/lccbid) | Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | 3 | 1996-05-10 a 2014-12-29 | 0 |
 | [`lce`](../../tree/lce) | Ley de Comercio Exterior | 3 | 2006-01-24 a 2026-05-01 | 0 |
 | [`lcec`](../../tree/lcec) | Ley de Cámaras Empresariales y sus Confederaciones | 1 | 2019-04-12 a 2019-04-12 | 0 |
-| [`lcf`](../../tree/lcf) | Ley de Coordinación Fiscal | 12 | 2006-12-27 a 2024-01-03 |  |
+| [`lcf`](../../tree/lcf) | Ley de Coordinación Fiscal | 12 | 2006-12-27 a 2024-01-03 | 1 |
 | [`lcid`](../../tree/lcid) | Ley de Cooperación Internacional para el Desarrollo | 1 | 2020-11-06 a 2020-11-06 | 0 |
 | [`lcjpjf`](../../tree/lcjpjf) | Ley de Carrera Judicial del Poder Judicial de la Federación | 1 | 2025-01-02 a 2025-01-02 | 0 |
 | [`lcm`](../../tree/lcm) | Ley de Concursos Mercantiles | 7 | 2000-05-12 a 2025-11-14 | 0 |
-| [`lcmm`](../../tree/lcmm) | Ley de la Casa de Moneda de México | 3 | 1986-01-20 a 2022-05-11 | 1 |
+| [`lcmm`](../../tree/lcmm) | Ley de la Casa de Moneda de México | 3 | 1986-01-24 a 2022-05-11 | 0 |
 | [`lcmopfih`](../../tree/lcmopfih) | Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | 1 | 1990-12-26 a 1990-12-26 | 0 |
-| [`lcnbv`](../../tree/lcnbv) | Ley de la Comisión Nacional Bancaria y de Valores | 7 | 2005-06-20 a 2022-05-11 |  |
+| [`lcnbv`](../../tree/lcnbv) | Ley de la Comisión Nacional Bancaria y de Valores | 7 | 2005-06-20 a 2022-05-11 | 1 |
 | [`lcndh`](../../tree/lcndh) | Ley de la Comisión Nacional de los Derechos Humanos | 11 | 2006-06-30 a 2024-04-01 | 3 |
 | [`lcne`](../../tree/lcne) | Ley de la Comisión Nacional de Energía | 1 | 2025-03-18 a 2025-03-18 | 0 |
-| [`lcnp`](../../tree/lcnp) | Ley para Conservar la Neutralidad del País | 2 | 1939-11-10 a 2018-06-21 |  |
+| [`lcnp`](../../tree/lcnp) | Ley para Conservar la Neutralidad del País | 2 | 1939-11-10 a 2018-06-21 | 0 |
 | [`lcpaf`](../../tree/lcpaf) | Ley de Caminos, Puentes y Autotransporte Federal | 14 | 2005-10-25 a 2025-11-14 | 1 |
 | [`lcpro`](../../tree/lcpro) | Ley de Capitalización del Procampo | 1 | 2001-12-31 a 2001-12-31 | 0 |
 | [`lcs`](../../tree/lcs) | Ley Sobre el Contrato de Seguro | 4 | 2006-04-24 a 2013-04-04 | 0 |
@@ -64,14 +64,14 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`ldcpdch`](../../tree/ldcpdch) | Ley para el Diálogo, la Conciliación y la Paz Digna en Chiapas | 1 | 1995-03-11 a 1995-03-11 | 0 |
 | [`ldefam`](../../tree/ldefam) | Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 | 0 |
 | [`ldfefm`](../../tree/ldfefm) | Ley de Disciplina Financiera de las Entidades Federativas y los Municipios | 3 | 2016-04-27 a 2022-05-10 | 0 |
-| [`ldofgg`](../../tree/ldofgg) | Ley del Diario Oficial de la Federación y Gacetas Gubernamentales | 3 | 1986-12-24 a 2019-05-31 | 1 |
+| [`ldofgg`](../../tree/ldofgg) | Ley del Diario Oficial de la Federación y Gacetas Gubernamentales | 3 | 1986-12-24 a 2019-06-10 | 1 |
 | [`ldpam`](../../tree/ldpam) | Ley de los Derechos de las Personas Adultas Mayores | 11 | 2006-01-26 a 2024-06-14 | 3 |
 | [`ldparm`](../../tree/ldparm) | Ley de Disciplina para el Personal de la Armada de México | 1 | 2002-12-13 a 2002-12-13 | 0 |
-| [`ldrs`](../../tree/ldrs) | Ley de Desarrollo Rural Sustentable | 13 | 2001-12-07 a 2024-06-07 |  |
+| [`ldrs`](../../tree/ldrs) | Ley de Desarrollo Rural Sustentable | 13 | 2001-12-07 a 2024-06-07 | 2 |
 | [`ldsc`](../../tree/ldsc) | Ley de Desarrollo Sustentable de la Cafeticultura | 1 | 2025-12-19 a 2025-12-19 | 0 |
-| [`ldsca`](../../tree/ldsca) | Ley de Desarrollo Sustentable de la Caña de Azúcar | 2 | 2005-08-22 a 2025-11-14 | 1 |
+| [`ldsca`](../../tree/ldsca) | Ley de Desarrollo Sustentable de la Caña de Azúcar | 5 | 2005-08-22 a 2025-11-14 | 0 |
 | [`ldvuma`](../../tree/ldvuma) | Ley para Determinar el Valor de la Unidad de Medida y Actualización | 1 | 2016-12-30 a 2016-12-30 | 0 |
-| [`lebhn`](../../tree/lebhn) | Ley sobre el Escudo, la Bandera y el Himno Nacionales | 15 | 2006-06-02 a 2024-04-01 | 2 |
+| [`lebhn`](../../tree/lebhn) | Ley sobre el Escudo, la Bandera y el Himno Nacionales | 16 | 2006-06-02 a 2025-07-21 | 2 |
 | [`lec`](../../tree/lec) | Ley de Energía para el Campo | 2 | 2002-12-30 a 2012-12-28 | 0 |
 | [`lei`](../../tree/lei) | Ley de Extradición Internacional | 3 | 1999-05-18 a 2021-05-20 | 0 |
 | [`lemefam`](../../tree/lemefam) | Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional | 1 | 2025-07-16 a 2025-07-16 | 0 |
@@ -123,19 +123,19 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfppcpcia`](../../tree/lfppcpcia) | Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas | 3 | 2022-01-17 a 2025-11-14 | 0 |
 | [`lfppi`](../../tree/lfppi) | Ley Federal de Protección a la Propiedad Industrial | 4 | 2020-07-01 a 2026-04-03 | 0 |
 | [`lfppipp`](../../tree/lfppipp) | Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal | 1 | 2021-05-20 a 2021-05-20 | 0 |
-| [`lfprh`](../../tree/lfprh) | Ley Federal de Presupuesto y Responsabilidad Hacendaria | 17 | 2006-12-27 a 2026-04-09 | 2 |
-| [`lfpsdmh`](../../tree/lfpsdmh) | Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | 4 | 2016-01-12 a 2021-11-12 | 1 |
+| [`lfprh`](../../tree/lfprh) | Ley Federal de Presupuesto y Responsabilidad Hacendaria | 19 | 2006-12-27 a 2026-04-09 | 2 |
+| [`lfpsdmh`](../../tree/lfpsdmh) | Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos | 5 | 2016-01-12 a 2021-11-12 | 1 |
 | [`lfra`](../../tree/lfra) | Ley Federal de Responsabilidad Ambiental | 3 | 2013-06-07 a 2025-11-14 | 0 |
-| [`lfrcf`](../../tree/lfrcf) | Ley de Fiscalización y Rendición de Cuentas de la Federación | 4 | 2016-07-18 a 2026-05-14 | 1 |
+| [`lfrcf`](../../tree/lfrcf) | Ley de Fiscalización y Rendición de Cuentas de la Federación | 4 | 2016-07-18 a 2026-05-15 | 1 |
 | [`lfremsp`](../../tree/lfremsp) | Ley Federal de Remuneraciones de los Servidores Públicos | 1 | 2021-05-19 a 2021-05-19 | 0 |
 | [`lfrm`](../../tree/lfrm) | Ley Federal de Revocación de Mandato | 1 | 2021-09-14 a 2021-09-14 | 0 |
 | [`lfrpe`](../../tree/lfrpe) | Ley Federal de Responsabilidad Patrimonial del Estado | 4 | 2004-12-31 a 2023-12-29 | 1 |
 | [`lfrsp`](../../tree/lfrsp) | Ley Federal de Responsabilidades de los Servidores Públicos | 7 | 2003-06-13 a 2024-04-01 | 0 |
 | [`lfsa`](../../tree/lfsa) | Ley Federal de Sanidad Animal | 5 | 2007-07-25 a 2024-05-21 | 0 |
 | [`lfsp`](../../tree/lfsp) | Ley Federal de Seguridad Privada | 3 | 2006-07-06 a 2011-10-17 | 1 |
-| [`lfsv`](../../tree/lfsv) | Ley Federal de Sanidad Vegetal | 5 | 1994-01-05 a 2022-05-11 | 1 |
+| [`lfsv`](../../tree/lfsv) | Ley Federal de Sanidad Vegetal | 6 | 1994-01-05 a 2022-05-11 | 0 |
 | [`lft`](../../tree/lft) | Ley Federal del Trabajo | 24 | 2006-01-17 a 2026-05-14 | 5 |
-| [`lftse`](../../tree/lftse) | Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | 9 | 2006-05-03 a 2026-01-15 | 3 |
+| [`lftse`](../../tree/lftse) | Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional | 10 | 2006-05-03 a 2026-01-15 | 3 |
 | [`lfvv`](../../tree/lfvv) | Ley Federal de Variedades Vegetales | 3 | 1996-10-25 a 2022-05-11 | 0 |
 | [`lfzee`](../../tree/lfzee) | Ley Federal de Zonas Económicas Especiales | 2 | 2016-06-01 a 2024-04-01 | 0 |
 | [`lga`](../../tree/lga) | Ley General de Archivos | 4 | 2018-06-15 a 2025-11-14 | 0 |
