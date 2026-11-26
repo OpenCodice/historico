@@ -80,11 +80,11 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lepepm`](../../tree/lepepm) | Ley de la Empresa Pública del Estado, Petróleos Mexicanos | 1 | 2025-03-18 a 2025-03-18 | 0 |
 | [`less`](../../tree/less) | Ley de la Economía Social y Solidaria | 8 | 2012-05-23 a 2025-04-16 | 0 |
 | [`lexp`](../../tree/lexp) | Ley de Expropiación | 3 | 1997-12-04 a 2012-01-27 | 1 |
-| [`lfaar`](../../tree/lfaar) | Ley de Fondos de Aseguramiento Agropecuario y Rural | 1 | 2005-05-13 a 2005-05-13 | 0 |
+| [`lfaar`](../../tree/lfaar) | Ley de Fondos de Aseguramiento Agropecuario y Rural | 2 | 2005-05-13 a 2025-11-14 | 0 |
 | [`lfaebsp`](../../tree/lfaebsp) | Ley Federal para la Administración y Enajenación de Bienes del Sector Público | 7 | 2005-02-23 a 2024-04-30 | 0 |
 | [`lfafe`](../../tree/lfafe) | Ley Federal de Armas de Fuego y Explosivos | 7 | 2004-01-23 a 2025-05-29 | 0 |
 | [`lfar`](../../tree/lfar) | Ley Federal de Austeridad Republicana | 2 | 2019-11-19 a 2025-04-16 | 0 |
-| [`lfc`](../../tree/lfc) | Ley Federal de Cinematografía | 5 | 2006-01-26 a 2021-03-22 | 2 |
+| [`lfc`](../../tree/lfc) | Ley Federal de Cinematografía | 6 | 2006-01-26 a 2025-08-19 | 1 |
 | [`lfca`](../../tree/lfca) | Ley Federal de Cine y el Audiovisual | 1 | 2026-05-22 a 2026-05-22 | 0 |
 | [`lfcc`](../../tree/lfcc) | Ley de Fomento a la Confianza Ciudadana | 1 | 2020-01-20 a 2020-01-20 | 0 |
 | [`lfcdo`](../../tree/lfcdo) | Ley Federal contra la Delincuencia Organizada | 16 | 2007-03-27 a 2025-11-28 | 1 |
@@ -92,7 +92,6 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfcp`](../../tree/lfcp) | Ley Federal de Correduría Pública | 3 | 2006-05-23 a 2012-04-09 | 0 |
 | [`lfcpo`](../../tree/lfcpo) | Ley Federal de Consulta Popular | 1 | 2021-05-19 a 2021-05-19 | 0 |
 | [`lfcpq`](../../tree/lfcpq) | Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | 4 | 1997-12-26 a 2023-05-03 | 0 |
-| [`lfcsq`](../../tree/lfcsq) | Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | 3 | 2009-06-09 a 2024-06-14 | 1 |
 | [`lfd`](../../tree/lfd) | Ley Federal de Derechos | 17 | 2008-11-13 a 2025-11-07 | 7 |
 | [`lfda`](../../tree/lfda) | Ley Federal del Derecho de Autor | 12 | 2003-07-23 a 2026-05-14 | 2 |
 | [`lfdc`](../../tree/lfdc) | Ley Federal de los Derechos del Contribuyente | 1 | 2005-06-23 a 2005-06-23 | 0 |
@@ -107,15 +106,15 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfgr`](../../tree/lfgr) | Ley de la Fiscalía General de la República | 3 | 2021-05-20 a 2025-11-14 | 0 |
 | [`lfi`](../../tree/lfi) | Ley de Fondos de Inversión | 7 | 2004-01-28 a 2025-11-14 | 1 |
 | [`lfiiedb`](../../tree/lfiiedb) | Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar | 1 | 2026-04-09 a 2026-04-09 | 0 |
-| [`lfisan`](../../tree/lfisan) | Ley Federal del Impuesto sobre Automóviles Nuevos | 5 | 2005-12-26 a 2021-11-12 | 19 |
+| [`lfisan`](../../tree/lfisan) | Ley Federal del Impuesto sobre Automóviles Nuevos | 26 | 2005-12-26 a 2025-12-28 | 3 |
 | [`lfiv`](../../tree/lfiv) | Ley de Fomento a la Industria Vitivinícola | 1 | 2018-05-23 a 2018-05-23 | 0 |
 | [`lfjs`](../../tree/lfjs) | Ley Federal de Juegos y Sorteos | 1 | 1947-12-31 a 1947-12-31 | 0 |
 | [`lfll`](../../tree/lfll) | Ley de Fomento para la Lectura y el Libro | 5 | 2008-07-24 a 2023-11-29 | 0 |
-| [`lfm`](../../tree/lfm) | Ley Federal del Mar | 1 | 1986-01-08 a 1986-01-08 | 1 |
+| [`lfm`](../../tree/lfm) | Ley Federal del Mar | 1 | 1986-01-09 a 1986-01-09 | 0 |
 | [`lfmped`](../../tree/lfmped) | Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | 4 | 2014-08-11 a 2025-03-18 | 0 |
 | [`lfmzaah`](../../tree/lfmzaah) | Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos | 5 | 1986-01-13 a 2025-11-14 | 2 |
 | [`lfpa`](../../tree/lfpa) | Ley Federal de Procedimiento Administrativo | 6 | 2000-05-30 a 2025-11-14 | 0 |
-| [`lfpc`](../../tree/lfpc) | Ley Federal de Protección al Consumidor | 16 | 2006-06-06 a 2025-12-12 | 20 |
+| [`lfpc`](../../tree/lfpc) | Ley Federal de Protección al Consumidor | 28 | 2006-12-19 a 2025-12-23 | 14 |
 | [`lfpca`](../../tree/lfpca) | Ley Federal de Procedimiento Contencioso Administrativo | 11 | 2005-12-01 a 2026-06-09 | 2 |
 | [`lfpdppp`](../../tree/lfpdppp) | Ley Federal de Protección de Datos Personales en Posesión de los Particulares | 2 | 2025-03-20 a 2025-11-14 | 0 |
 | [`lfped`](../../tree/lfped) | Ley Federal para Prevenir y Eliminar la Discriminación | 15 | 2003-06-11 a 2025-11-14 | 4 |
