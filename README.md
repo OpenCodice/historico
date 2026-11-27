@@ -164,7 +164,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lges`](../../tree/lges) | Ley General de Educación Superior | 1 | 2021-04-20 a 2021-04-20 | 0 |
 | [`lgimh`](../../tree/lgimh) | Ley General para la Igualdad Sustantiva entre Mujeres y Hombres | 1 | 2026-01-15 a 2026-01-15 | 0 |
 | [`lgipd`](../../tree/lgipd) | Ley General para la Inclusión de las Personas con Discapacidad | 7 | 2011-05-30 a 2024-06-14 | 3 |
-| [`lgipe`](../../tree/lgipe) | Ley General de Instituciones y Procedimientos Electorales | 8 | 2014-05-23 a 2026-06-02 | 1 |
+| [`lgipe`](../../tree/lgipe) | Ley General de Instituciones y Procedimientos Electorales | 9 | 2014-05-23 a 2026-06-02 | 1 |
 | [`lgmasc`](../../tree/lgmasc) | Ley General de Mecanismos Alternativos de Solución de Controversias | 1 | 2024-01-26 a 2024-01-26 | 0 |
 | [`lgmde`](../../tree/lgmde) | Ley General en Materia de Delitos Electorales | 1 | 2021-05-20 a 2021-05-20 | 0 |
 | [`lgmdfp`](../../tree/lgmdfp) | Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas | 7 | 2017-11-17 a 2025-07-16 | 0 |
@@ -180,17 +180,17 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lgpgir`](../../tree/lgpgir) | Ley General para la Prevención y Gestión Integral de los Residuos | 12 | 2006-05-22 a 2026-01-19 | 3 |
 | [`lgpisdme`](../../tree/lgpisdme) | Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | 1 | 2025-11-28 a 2025-11-28 | 0 |
 | [`lgpist`](../../tree/lgpist) | Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes | 3 | 2017-06-26 a 2022-04-28 | 0 |
-| [`lgpp`](../../tree/lgpp) | Ley General de Partidos Políticos | 4 | 2014-05-23 a 2023-03-02 | 1 |
+| [`lgpp`](../../tree/lgpp) | Ley General de Partidos Políticos | 7 | 2014-05-23 a 2023-11-24 | 0 |
 | [`lgpsacdii`](../../tree/lgpsacdii) | Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil | 7 | 2011-10-24 a 2024-04-01 | 0 |
 | [`lgpsdms`](../../tree/lgpsdms) | Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos | 1 | 2021-05-20 a 2021-05-20 | 0 |
 | [`lgpsedmtp`](../../tree/lgpsedmtp) | Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos | 7 | 2012-06-14 a 2025-11-14 | 0 |
 | [`lgpsvd`](../../tree/lgpsvd) | Ley General para la Prevención Social de la Violencia y la Delincuencia | 1 | 2021-05-04 a 2021-05-04 | 0 |
 | [`lgra`](../../tree/lgra) | Ley General de Responsabilidades Administrativas | 9 | 2016-07-18 a 2025-12-15 | 0 |
-| [`lgs`](../../tree/lgs) | Ley General de Salud | 42 | 2006-06-06 a 2024-06-07 | 48 |
+| [`lgs`](../../tree/lgs) | Ley General de Salud | 44 | 2006-06-06 a 2024-06-07 | 47 |
 | [`lgsc`](../../tree/lgsc) | Ley General de Sociedades Cooperativas | 5 | 2001-06-04 a 2025-04-16 | 0 |
 | [`lgscmm`](../../tree/lgscmm) | Ley General del Sistema para la Carrera de las Maestras y los Maestros | 1 | 2019-09-30 a 2019-09-30 | 0 |
 | [`lgsm`](../../tree/lgsm) | Ley General de Sociedades Mercantiles | 8 | 2006-07-28 a 2023-10-20 | 0 |
-| [`lgsmime`](../../tree/lgsmime) | Ley General del Sistema de Medios de Impugnación en Materia Electoral | 8 | 1996-11-22 a 2025-11-14 | 2 |
+| [`lgsmime`](../../tree/lgsmime) | Ley General del Sistema de Medios de Impugnación en Materia Electoral | 9 | 1996-11-22 a 2025-11-14 | 3 |
 | [`lgsna`](../../tree/lgsna) | Ley General del Sistema Nacional Anticorrupción | 1 | 2021-05-20 a 2021-05-20 | 0 |
 | [`lgsnsp`](../../tree/lgsnsp) | Ley General del Sistema Nacional de Seguridad Pública | 1 | 2025-07-16 a 2025-07-16 | 0 |
 | [`lgt`](../../tree/lgt) | Ley General de Turismo | 8 | 2009-06-17 a 2025-11-14 | 6 |
@@ -202,7 +202,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lic`](../../tree/lic) | Ley de Instituciones de Crédito | 15 | 2006-07-18 a 2025-11-14 | 7 |
 | [`lical`](../../tree/lical) | Ley de Infraestructura de la Calidad | 1 | 2020-07-01 a 2020-07-01 | 0 |
 | [`lie`](../../tree/lie) | Ley de Inversión Extranjera | 11 | 2006-07-18 a 2024-05-27 | 1 |
-| [`lieps`](../../tree/lieps) | Ley del Impuesto Especial sobre Producción y Servicios | 12 | 2006-12-27 a 2025-11-07 | 5 |
+| [`lieps`](../../tree/lieps) | Ley del Impuesto Especial sobre Producción y Servicios | 22 | 2006-12-27 a 2025-12-22 | 3 |
 | [`lif-2026`](../../tree/lif-2026) | Ley de Ingresos de la Federación 2026 | 1 | 2025-11-07 a 2025-11-07 | 0 |
 | [`lifnct`](../../tree/lifnct) | Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | 2 | 2014-01-10 a 2024-01-03 | 0 |
 | [`lifnvt`](../../tree/lifnvt) | Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | 15 | 2005-06-01 a 2025-02-21 | 2 |
