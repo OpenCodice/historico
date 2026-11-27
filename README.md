@@ -204,7 +204,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lie`](../../tree/lie) | Ley de Inversión Extranjera | 11 | 2006-07-18 a 2024-05-27 | 1 |
 | [`lieps`](../../tree/lieps) | Ley del Impuesto Especial sobre Producción y Servicios | 22 | 2006-12-27 a 2025-12-22 | 3 |
 | [`lif-2026`](../../tree/lif-2026) | Ley de Ingresos de la Federación 2026 | 1 | 2025-11-07 a 2025-11-07 | 0 |
-| [`lifnct`](../../tree/lifnct) | Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | 2 | 2014-01-10 a 2024-01-03 | 0 |
+| [`lifnct`](../../tree/lifnct) | Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores | 3 | 2006-04-24 a 2024-01-03 | 0 |
 | [`lifnvt`](../../tree/lifnvt) | Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | 15 | 2005-06-01 a 2025-02-21 | 2 |
 | [`liispcen`](../../tree/liispcen) | Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | 3 | 2015-05-06 a 2024-04-17 | 0 |
 | [`limj`](../../tree/limj) | Ley del Instituto Mexicano de la Juventud | 7 | 2006-06-22 a 2024-04-01 | 0 |
@@ -214,8 +214,8 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lisf`](../../tree/lisf) | Ley de Instituciones de Seguros y de Fianzas | 6 | 2013-04-04 a 2025-11-14 | 0 |
 | [`lish`](../../tree/lish) | Ley de Ingresos sobre Hidrocarburos | 4 | 2014-08-11 a 2025-03-18 | 0 |
 | [`lisipl`](../../tree/lisipl) | Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | 1 | 1968-12-31 a 1968-12-31 | 0 |
-| [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 8 | 2013-12-11 a 2024-04-01 | 0 |
-| [`lissfam`](../../tree/lissfam) | Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | 11 | 2006-05-08 a 2025-11-14 | 2 |
+| [`lisr`](../../tree/lisr) | Ley del Impuesto sobre la Renta | 9 | 2013-12-11 a 2024-04-01 | 0 |
+| [`lissfam`](../../tree/lissfam) | Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | 11 | 2006-05-08 a 2025-12-16 | 2 |
 | [`lissste`](../../tree/lissste) | Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | 18 | 2007-03-31 a 2026-01-15 | 3 |
 | [`liva`](../../tree/liva) | Ley del Impuesto al Valor Agregado | 10 | 2006-07-18 a 2021-11-12 | 0 |
 | [`lmccbdc`](../../tree/lmccbdc) | Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | 3 | 1991-12-24 a 2014-12-29 | 0 |
