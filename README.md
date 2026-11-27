@@ -313,13 +313,13 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`luc`](../../tree/luc) | Ley de Uniones de Crédito | 4 | 2008-08-20 a 2025-11-14 | 0 |
 | [`luefa`](../../tree/luefa) | Ley que Crea la Universidad del Ejército y Fuerza Aérea | 1 | 1975-12-29 a 1975-12-29 | 0 |
 | [`lupdecr`](../../tree/lupdecr) | Ley para el uso y protección de la denominación y del emblema de la Cruz Roja | 1 | 2007-03-23 a 2007-03-23 | 0 |
-| [`lvgc`](../../tree/lvgc) | Ley de Vías Generales de Comunicación | 9 | 2005-10-25 a 2025-07-16 | 0 |
+| [`lvgc`](../../tree/lvgc) | Ley de Vías Generales de Comunicación | 10 | 2005-10-25 a 2025-11-14 | 0 |
 | [`lviv`](../../tree/lviv) | Ley de Vivienda | 8 | 2006-06-27 a 2026-04-29 | 3 |
 | [`lvzmm`](../../tree/lvzmm) | Ley de Vertimientos en las Zonas Marinas Mexicanas | 3 | 2014-01-17 a 2025-11-14 | 0 |
 | [`oga`](../../tree/oga) | Ordenanza General de la Armada | 1 | 2000-10-19 a 2000-10-19 | 0 |
 | [`pef-2026`](../../tree/pef-2026) | Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026 | 1 | 2025-11-21 a 2025-11-21 | 0 |
 | [`reg-diputados`](../../tree/reg-diputados) | Reglamento de la Cámara de Diputados | 21 | 2011-04-20 a 2025-05-07 | 11 |
-| [`reg-senado`](../../tree/reg-senado) | Reglamento del Senado de la República | 16 | 2010-12-20 a 2024-12-06 | 5 |
+| [`reg-senado`](../../tree/reg-senado) | Reglamento del Senado de la República | 16 | 2011-02-09 a 2024-12-06 | 4 |
 | [`rgic`](../../tree/rgic) | Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos | 3 | 1981-11-27 a 2010-12-24 | 0 |
 <!-- /ramas -->
 
