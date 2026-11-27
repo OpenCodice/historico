@@ -227,33 +227,34 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lnac`](../../tree/lnac) | Ley de Nacionalidad | 2 | 2005-01-12 a 2012-04-23 | 0 |
 | [`lncm`](../../tree/lncm) | Ley de Navegación y Comercio Marítimos | 7 | 2006-06-01 a 2025-11-14 | 1 |
 | [`lned`](../../tree/lned) | Ley Nacional de Extinción de Dominio | 4 | 2019-08-09 a 2025-11-28 | 0 |
-| [`lnep`](../../tree/lnep) | Ley Nacional de Ejecución Penal | 2 | 2016-06-16 a 2024-04-01 | 1 |
+| [`lnep`](../../tree/lnep) | Ley Nacional de Ejecución Penal | 3 | 2016-06-16 a 2024-04-01 | 0 |
 | [`lnetb`](../../tree/lnetb) | Ley Nacional para Eliminar Trámites Burocráticos | 1 | 2025-07-16 a 2025-07-16 | 0 |
 | [`lnmascmp`](../../tree/lnmascmp) | Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal | 3 | 2014-12-29 a 2024-04-01 | 0 |
 | [`lnrd`](../../tree/lnrd) | Ley Nacional del Registro de Detenciones | 1 | 2019-05-27 a 2019-05-27 | 0 |
 | [`lnsijpa`](../../tree/lnsijpa) | Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes | 3 | 2016-06-16 a 2022-12-20 | 0 |
 | [`lnuf`](../../tree/lnuf) | Ley Nacional sobre el Uso de la Fuerza | 2 | 2019-05-27 a 2024-01-24 | 0 |
 | [`loam`](../../tree/loam) | Ley Orgánica de la Armada de México | 1 | 2025-11-07 a 2025-11-07 | 0 |
-| [`loapf`](../../tree/loapf) | Ley Orgánica de la Administración Pública Federal | 38 | 2006-06-02 a 2026-05-07 | 10 |
+| [`loapf`](../../tree/loapf) | Ley Orgánica de la Administración Pública Federal | 39 | 2006-06-02 a 2026-05-07 | 10 |
 | [`lobb`](../../tree/lobb) | Ley Orgánica del Banco del Bienestar | 3 | 2005-08-01 a 2019-07-19 | 0 |
 | [`lobnce`](../../tree/lobnce) | Ley Orgánica del Banco Nacional de Comercio Exterior | 4 | 2005-08-01 a 2024-04-01 | 0 |
 | [`lobnefaa`](../../tree/lobnefaa) | Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | 3 | 2002-06-24 a 2014-01-10 | 0 |
 | [`lobnosp`](../../tree/lobnosp) | Ley Orgánica del Banco Nacional de Obras y Servicios Públicos | 5 | 2005-08-01 a 2024-04-01 | 0 |
 | [`locfcrl`](../../tree/locfcrl) | Ley Orgánica del Centro Federal de Conciliación y Registro Laboral | 1 | 2020-01-06 a 2020-01-06 | 0 |
 | [`locg`](../../tree/locg) | Ley Orgánica del Congreso General de los Estados Unidos Mexicanos | 23 | 2006-09-13 a 2025-07-07 | 7 |
-| [`loefam`](../../tree/loefam) | Ley Orgánica del Ejército y Fuerza Aérea Mexicanos | 13 | 1998-01-23 a 2025-07-16 | 1 |
+| [`loefam`](../../tree/loefam) | Ley Orgánica del Ejército y Fuerza Aérea Mexicanos | 13 | 1998-01-23 a 2025-07-16 | 2 |
 | [`log`](../../tree/log) | Ley de Organizaciones Ganaderas | 2 | 1999-01-06 a 2012-04-09 | 0 |
 | [`loinah`](../../tree/loinah) | Ley Orgánica del Instituto Nacional de Antropología e Historia | 2 | 1998-01-23 a 2015-12-17 | 0 |
-| [`loipn`](../../tree/loipn) | Ley Orgánica del Instituto Politécnico Nacional | 1 | 1981-12-29 a 1981-12-29 | 1 |
+| [`loipn`](../../tree/loipn) | Ley Orgánica del Instituto Politécnico Nacional | 1 | 1982-05-28 a 1982-05-28 | 0 |
 | [`lonf`](../../tree/lonf) | Ley Orgánica de Nacional Financiera | 4 | 2005-08-01 a 2014-01-10 | 0 |
-| [`lopdc`](../../tree/lopdc) | Ley Orgánica de la Procuraduría de la Defensa del Contribuyente | 3 | 2006-09-04 a 2022-05-11 | 1 |
-| [`lopgjdf`](../../tree/lopgjdf) | Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal | 1 | 2011-06-20 a 2011-06-20 | 1 |
+| [`lopdc`](../../tree/lopdc) | Ley Orgánica de la Procuraduría de la Defensa del Contribuyente | 5 | 2006-09-04 a 2022-05-11 | 1 |
+| [`lopgjdf`](../../tree/lopgjdf) | Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal | 1 | 2012-02-24 a 2012-02-24 | 0 |
 | [`lopjf`](../../tree/lopjf) | Ley Orgánica del Poder Judicial de la Federación | 2 | 2024-12-20 a 2025-11-28 | 0 |
 | [`lopsrm`](../../tree/lopsrm) | Ley de Obras Públicas y Servicios Relacionados con las Mismas | 11 | 2005-07-07 a 2025-11-14 | 0 |
 | [`loscm`](../../tree/loscm) | Ley Orgánica del Seminario de Cultura Mexicana | 2 | 1949-12-31 a 2022-05-11 | 0 |
 | [`loshf`](../../tree/loshf) | Ley Orgánica de Sociedad Hipotecaria Federal | 4 | 2006-06-22 a 2024-04-01 | 0 |
 | [`lota`](../../tree/lota) | Ley Orgánica de los Tribunales Agrarios | 1 | 1998-01-23 a 1998-01-23 | 0 |
 | [`lotfja`](../../tree/lotfja) | Ley Orgánica del Tribunal Federal de Justicia Administrativa | 3 | 2016-07-18 a 2025-10-16 | 0 |
+| [`louaaan`](../../tree/louaaan) | Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro | 1 | 2006-04-26 a 2006-04-26 | 0 |
 | [`louam`](../../tree/louam) | Ley Orgánica de la Universidad Autónoma Metropolitana | 1 | 1973-12-17 a 1973-12-17 | 0 |
 | [`lounam`](../../tree/lounam) | Ley Orgánica de la Universidad Nacional Autónoma de México | 1 | 1945-01-06 a 1945-01-06 | 0 |
 | [`lpab`](../../tree/lpab) | Ley de Protección al Ahorro Bancario | 4 | 2006-07-06 a 2022-05-11 | 0 |
@@ -261,7 +262,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lpdusf`](../../tree/lpdusf) | Ley de Protección y Defensa al Usuario de Servicios Financieros | 9 | 2006-06-06 a 2025-11-14 | 1 |
 | [`lpeam`](../../tree/lpeam) | Ley de Protección del Espacio Aéreo Mexicano | 1 | 2023-03-01 a 2023-03-01 | 0 |
 | [`lperc`](../../tree/lperc) | Ley de Premios, Estímulos y Recompensas Civiles | 14 | 2006-06-30 a 2024-04-01 | 1 |
-| [`lpf`](../../tree/lpf) | Ley de la Policía Federal | 3 | 2010-11-30 a 2025-11-14 | 1 |
+| [`lpf`](../../tree/lpf) | Ley de la Policía Federal | 4 | 2010-11-30 a 2025-11-14 | 0 |
 | [`lplan`](../../tree/lplan) | Ley de Planeación | 9 | 2003-06-13 a 2026-01-15 | 0 |
 | [`lpo`](../../tree/lpo) | Ley de Productos Orgánicos | 1 | 2006-02-07 a 2006-02-07 | 0 |
 | [`lppddhp`](../../tree/lppddhp) | Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | 4 | 2012-06-25 a 2022-04-28 | 0 |
