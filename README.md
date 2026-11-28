@@ -92,6 +92,7 @@ commit, fechado el día de su publicación en el Diario Oficial de la Federació
 | [`lfcp`](../../tree/lfcp) | Ley Federal de Correduría Pública | 3 | 2006-05-23 a 2012-04-09 | 0 |
 | [`lfcpo`](../../tree/lfcpo) | Ley Federal de Consulta Popular | 1 | 2021-05-19 a 2021-05-19 | 0 |
 | [`lfcpq`](../../tree/lfcpq) | Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos | 4 | 1997-12-26 a 2023-05-03 | 0 |
+| [`lfcsq`](../../tree/lfcsq) | Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas | 3 | 2009-07-03 a 2024-06-14 | 0 |
 | [`lfd`](../../tree/lfd) | Ley Federal de Derechos | 17 | 2008-11-13 a 2025-11-07 | 7 |
 | [`lfda`](../../tree/lfda) | Ley Federal del Derecho de Autor | 12 | 2003-07-23 a 2026-05-14 | 2 |
 | [`lfdc`](../../tree/lfdc) | Ley Federal de los Derechos del Contribuyente | 1 | 2005-06-23 a 2005-06-23 | 0 |
